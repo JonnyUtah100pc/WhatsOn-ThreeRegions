@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
 # Build whatson-shropshire-cheshire-northwales.ics from data/events.yaml
-# - All-day events with exclusive DTEND (RFC5545)
+# Safe defaults:
+# - Never crashes on absent/invalid YAML (logs a warning, produces 0 events)
+# - All-day events with exclusive DTEND (RFC 5545)
 # - Stable UID per (summary + year)
-# - Filters to window: 2025-06-01 .. 2026-12-31
+# - Window filter: 2025-06-01 .. 2026-12-31
 # - Sorted by start date
 
-import os, re, unicodedata, yaml
+import os, re, unicodedata, sys
 from datetime import datetime, timedelta, date
 from typing import List, Dict
+
+try:
+    import yaml
+except Exception as ex:
+    print(f"::error::PyYAML not installed: {ex}")
+    sys.exit(1)
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 IN_YAML   = os.path.join(REPO_ROOT, "data", "events.yaml")
@@ -30,12 +38,16 @@ def esc(s: str) -> str:
 
 def load_events(path: str) -> List[Dict]:
     if not os.path.exists(path):
+        print(f"[warn] missing file: {path} (continuing with 0 events)")
         return []
     try:
         with open(path, "r", encoding="utf-8") as f:
             y = yaml.safe_load(f) or {}
         evs = y.get("events", [])
-        return evs if isinstance(evs, list) else []
+        if not isinstance(evs, list):
+            print("[warn] 'events' is not a list; ignoring.")
+            return []
+        return evs
     except Exception as ex:
         print(f"[warn] YAML parse error in {path}: {ex}")
         return []
@@ -47,20 +59,29 @@ def in_window(s: date, e: date) -> bool:
     return not (e < WINDOW_START or s > WINDOW_END)
 
 def build_vevent(e: Dict) -> str:
-    summary   = e["summary"]
-    start_str = e["start"]
+    try:
+        summary   = e["summary"]
+        start_str = e["start"]
+    except KeyError as ex:
+        print(f"[warn] event missing required field {ex}; skipping: {e}")
+        return ""
+
     end_str   = e.get("end", start_str)
     location  = e.get("location","")
     url       = e.get("url","")
     cats      = e.get("categories","")
     desc      = e.get("description","")
 
-    s = parse_ymd(start_str)
-    e_date = parse_ymd(end_str)
-    if e_date < s: e_date = s
+    try:
+        s = parse_ymd(start_str)
+        e_date = parse_ymd(end_str)
+    except Exception as ex:
+        print(f"[warn] bad date(s) in event '{summary}': {ex}; skipping")
+        return ""
 
+    if e_date < s: e_date = s
     if not in_window(s, e_date):
-        return ""  # skip outside window
+        return ""  # out of window
 
     dtend = (e_date + timedelta(days=1)).strftime("%Y%m%d")
     uid = f"{slugify(summary)}-{s.year}@whatson.local"
@@ -82,28 +103,27 @@ def build_vevent(e: Dict) -> str:
     ]
     return "\n".join(lines)
 
-def main():
+def main() -> int:
     evs = load_events(IN_YAML)
 
-    # normalise + sort
+    # normalize + sort
     cleaned = []
     for e in evs:
         try:
             s = parse_ymd(e["start"])
             e_end = parse_ymd(e.get("end", e["start"]))
             cleaned.append((s, e_end, e))
-        except Exception:
-            continue
+        except Exception as ex:
+            print(f"[warn] skipping event due to date parse: {ex} -> {e}")
     cleaned.sort(key=lambda t: t[0])
 
     vevents = []
     seen = set()
     for s, e_end, e in cleaned:
         ve = build_vevent(e)
-        if not ve: 
+        if not ve:
             continue
-        # dedupe by (summary, start)
-        key = (e["summary"], s.isoformat())
+        key = (e.get("summary",""), s.isoformat())
         if key in seen:
             continue
         seen.add(key)
@@ -127,6 +147,13 @@ def main():
         f.write(vcal)
 
     print(f"Wrote {OUT_ICS} with {len(vevents)} events.")
+    return 0
 
 if __name__ == "__main__":
-    main()
+    try:
+        raise SystemExit(main())
+    except Exception as ex:
+        # Never mask the error — print it, but still exit non-zero so GH logs it
+        print(f"::error::Unexpected error in build: {ex}")
+        sys.exit(1)
+
