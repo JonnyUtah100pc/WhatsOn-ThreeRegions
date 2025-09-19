@@ -10,6 +10,7 @@ on:
       - data/**
       - .github/workflows/build-ics.yml
       - requirements.txt
+      - index.html
 
 permissions:
   contents: write
@@ -22,21 +23,43 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      ICS_WINDOW_OPEN: "true"   # include all events; remove if you want a date window
+      ICS_WINDOW_OPEN: "true"   # include all events (no date window)
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
+        with:
+          fetch-depth: 0
+
+      - name: Show repo tree
+        run: |
+          echo "== repo root ==" && ls -la
+          echo "== scripts ==" && ls -la scripts || true
+          echo "== data ==" && ls -la data || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
+        with:
+          python-version: '3.11'
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          # Try requirements.txt if present, then ensure scraper deps are installed
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install PyYAML requests beautifulsoup4 lxml python-dateutil
+
+      # Optional: create data/ if it doesn't exist
+      - name: Ensure data directory
+        run: mkdir -p data
+
+      - name: Scrape Shropshire Events Guide
+        run: |
+          # This script should exist at scripts/scrape_shropshire_events_guide.py
+          # It merges scraped events into data/events.yaml
+          python scripts/scrape_shropshire_events_guide.py \
+            --from 2025-06-01 --to 2026-12-31 \
+            --out data/events.yaml --merge
 
       - name: Validate YAML (warn only)
         run: |
@@ -54,7 +77,8 @@ jobs:
           PY
 
       - name: Build ICS
-        run: python scripts/build_ics.py
+        run: |
+          python scripts/build_ics.py
 
       - name: Count events (fail if zero)
         run: |
@@ -66,17 +90,24 @@ jobs:
       - name: Sanity-check ICS (no empty props)
         run: |
           if grep -nE '^(URL|CATEGORIES|DESCRIPTION):\s*$' whatson-shropshire-cheshire-northwales.ics; then
-            echo "::error::Found empty ICS properties"; exit 1
+            echo "::error::Found empty ICS properties (URL/CATEGORIES/DESCRIPTION)"; exit 1
           fi
           echo "ICS basic sanity checks passed."
+
+      - name: Upload ICS artifact (for debugging)
+        uses: actions/upload-artifact@v4
+        with:
+          name: whatson-ics
+          path: whatson-shropshire-cheshire-northwales.ics
 
       - name: Commit & push (resilient)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add whatson-shropshire-cheshire-northwales.ics || true
+          git add whatson-shropshire-cheshire-northwales.ics data/events.yaml || true
           if git diff --cached --quiet; then
-            echo "No changes to commit."; exit 0
+            echo "No changes to commit."
+            exit 0
           fi
-          git commit -m "auto: weekly build ICS"
+          git commit -m "auto: weekly build ICS (with Shropshire Events Guide scrape)"
           git push || (git pull --rebase && git push || git push --force-with-lease)
