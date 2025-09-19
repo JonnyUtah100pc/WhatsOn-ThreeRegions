@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>What’s On — Shropshire • Cheshire • North Wales</title>
+  <meta name="description" content="Subscribe to an iCal feed of events across Shropshire, Cheshire and North Wales." />
+  <style>
+    :root{--bg:#0b1020;--panel:#141d3d;--panel2:#101738;--text:#eef2ff;--muted:#a8b0d9;--ring:#7dd3fc;--ring2:#a78bfa;}
+    *{box-sizing:border-box}
+    body{margin:0;background:linear-gradient(180deg,#0b1020,#0e1330);color:var(--text);
+         font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Inter,Roboto,Arial,"Noto Sans",sans-serif;}
+    a{color:var(--ring);text-decoration:none} a:hover{text-decoration:underline}
+    .wrap{max-width:1100px;margin:0 auto;padding:28px 18px 60px}
+    header{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;margin-bottom:8px}
+    h1{margin:0;font-size:clamp(26px,3.2vw,40px)}
+    .tag{color:var(--muted);margin-top:4px}
+    .actions{display:flex;gap:10px;flex-wrap:wrap}
+    .btn{display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:12px;border:1px solid rgba(255,255,255,.08);
+         background:linear-gradient(90deg,var(--ring2),var(--ring));color:#0b1020;font-weight:700}
+    .btn.secondary{background:#1a2150;color:var(--text)}
+    .panel{background:radial-gradient(120% 160% at 0% 0%, #1a2350 0%, #141d3d 55%, #111735 100%);border:1px solid rgba(255,255,255,.08);
+           border-radius:16px;padding:14px;margin-top:16px}
+    .controls{display:grid;grid-template-columns:1fr;gap:10px}
+    @media(min-width:760px){.controls{grid-template-columns:1.1fr .9fr .9fr}}
+    .input{flex:1;padding:10px 12px;border-radius:10px;border:1px solid rgba(255,255,255,.12);background:#0e1532;color:var(--text)}
+    .chips{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+    .chip{display:inline-flex;align-items:center;gap:8px;padding:8px 10px;border-radius:999px;background:#0f1739;border:1px solid rgba(255,255,255,.1);font-size:14px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:18px}
+    .card{background:radial-gradient(120% 160% at 0% 0%, #1c2755 0%, #151e40 60%, #12183a 100%);border:1px solid rgba(255,255,255,.08);
+          border-radius:16px;padding:16px}
+    .card h3{margin:0 0 8px 0;font-size:18px;line-height:1.25}
+    .muted{color:var(--muted);font-size:14px}
+    .pill{display:inline-block;padding:2px 8px;border-radius:999px;background:rgba(255,255,255,.08);font-size:12px;margin-left:6px}
+    .meta{margin:6px 0 8px 0}
+    .month{margin:26px 0 8px 0;font-size:20px}
+    .status{margin-top:10px;color:var(--muted)}
+    footer{margin-top:36px;color:var(--muted);font-size:14px}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/ical.js@1.4.0/build/ical.min.js" defer></script>
+  <script defer>
+    const ICS_FILE = 'whatson-shropshire-cheshire-northwales.ics'; // keep at repo root
+
+    function webcalHref() {
+      const abs = new URL(ICS_FILE, location.href).href;
+      return abs.replace(/^https?/, 'webcal');
+    }
+
+    function fmtRange(start, end, allDay=true) {
+      const fmt = new Intl.DateTimeFormat('en-GB', { day:'2-digit', month:'short', year:'numeric' });
+      if (!start) return '';
+      // All-day VEVENTs use exclusive DTEND; display end-1 day
+      const dispEnd = (allDay && end) ? new Date(end.getTime() - 86400000) : end;
+      if (!dispEnd || dispEnd <= start) return fmt.format(start);
+      return fmt.format(start) + ' – ' + fmt.format(dispEnd);
+    }
+
+    function regionFlags(text){
+      const t = (text || '').toLowerCase();
+      return {
+        shropshire: /shropshire|shrewsbury|ludlow|oswestry|bridgnorth|ironbridge|wenlock|attingham/.test(t),
+        cheshire: /cheshire|chester|knutsford|tatton|tattenhall|bolesworth|nantwich|wilmslow|macclesfield/.test(t),
+        northwales: /north wales|llandudno|llangollen|conwy|denbighshire|wrexham|gwynedd|anglesey|pembroke|ruthin|flintshire/.test(t)
+      };
+    }
+
+    async function loadICS() {
+      const status = document.getElementById('status');
+      const grid = document.getElementById('grid');
+      try {
+        const res = await fetch(ICS_FILE + '?v=' + Date.now(), { cache: 'no-store' });
+        if (!res.ok) throw new Error('Fetch failed: ' + res.status);
+        const text = await res.text();
+
+        const jcal = ICAL.parse(text);
+        const comp = new ICAL.Component(jcal);
+        const vevents = comp.getAllSubcomponents('vevent') || [];
+
+        const items = vevents.map(v => {
+          const ev = new ICAL.Event(v);
+          const s = ev.startDate ? ev.startDate.toJSDate() : null;
+          const e = ev.endDate ? ev.endDate.toJSDate() : null; // exclusive for all-day
+          const loc = v.getFirstPropertyValue('location') || '';
+          const url = v.getFirstPropertyValue('url') || '';
+          const cats = v.getFirstPropertyValue('categories') || '';
+          const sum = ev.summary || 'Event';
+          const bag = regionFlags(sum + ' ' + loc + ' ' + cats);
+          return { summary: sum, start: s, end: e, url, location: loc, cats,
+                   shropshire: bag.shropshire, cheshire: bag.cheshire, northwales: bag.northwales, allDay: true };
+        }).sort((a,b) => a.start - b.start);
+
+        window.__ALL_EVENTS__ = items;
+        render();
+        document.getElementById('subscribe').href = webcalHref();
+      } catch (e) {
+        console.error(e);
+        status.innerHTML = 'Could not load the ICS. Ensure <code>'+ICS_FILE+'</code> exists at the site root.';
+      }
+    }
+
+    function render(){
+      const grid = document.getElementById('grid');
+      const status = document.getElementById('status');
+
+      const q = document.getElementById('q').value.trim().toLowerCase();
+      const onlyShrop = document.getElementById('f-shrop').checked;
+      const onlyChesh = document.getElementById('f-chesh').checked;
+      const onlyNW = document.getElementById('f-nw').checked;
+
+      const src = window.__ALL_EVENTS__ || [];
+      let list = src.filter(it => {
+        if (onlyShrop && !it.shropshire) return false;
+        if (onlyChesh && !it.cheshire) return false;
+        if (onlyNW && !it.northwales) return false;
+        if (q){
+          const hay = (it.summary + ' ' + it.location + ' ' + (it.cats||'')).toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      });
+
+      // group by month
+      const groups = new Map();
+      for (const it of list){
+        const key = it.start.getFullYear()+'-'+String(it.start.getMonth()+1).padStart(2,'0');
+        if (!groups.has(key)) groups.set(key, []);
+        groups.get(key).push(it);
+      }
+
+      grid.innerHTML = '';
+      const fmtMonth = new Intl.DateTimeFormat('en-GB', { month:'long', year:'numeric' });
+
+      for (const [key, items] of groups){
+        const sample = items[0];
+        const monthDate = new Date(sample.start.getFullYear(), sample.start.getMonth(), 1);
+        const h = document.createElement('h2');
+        h.className = 'month';
+        h.textContent = fmtMonth.format(monthDate);
+        grid.appendChild(h);
+
+        items.forEach(it => {
+          const card = document.createElement('article');
+          card.className = 'card';
+          const tag = it.shropshire ? '<span class="pill">Shropshire</span>' :
+                       it.cheshire   ? '<span class="pill">Cheshire</span>' :
+                       it.northwales ? '<span class="pill">North Wales</span>' : '';
+          const dateStr = fmtRange(it.start, it.end, it.allDay);
+          const title = it.url ? `<a href="${it.url}" target="_blank" rel="noopener">${it.summary}</a>` : it.summary;
+          card.innerHTML = `
+            <h3>${title} ${tag}</h3>
+            <div class="meta muted">${dateStr} • ${it.location ? it.location : ''}</div>
+            ${it.url ? `<div class="muted">Check the official page for live updates.</div>` : ''}
+          `;
+          grid.appendChild(card);
+        });
+      }
+
+      const total = src.length;
+      const shown = list.length;
+      status.textContent = shown
+        ? `Showing ${shown} of ${total} events`
+        : 'No matching events.';
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
+      document.getElementById('q').addEventListener('input', render);
+      document.getElementById('f-shrop').addEventListener('change', render);
+      document.getElementById('f-chesh').addEventListener('change', render);
+      document.getElementById('f-nw').addEventListener('change', render);
+      loadICS();
+    });
+  </script>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>What’s On — Shropshire • Cheshire • North Wales</h1>
+        <div class="tag">Subscribe to the iCal feed or browse upcoming events.</div>
+      </div>
+      <div class="actions">
+        <a id="subscribe" class="btn" href="#">📅 Subscribe</a>
+        <a class="btn secondary" href="whatson-shropshire-cheshire-northwales.ics">⬇️ Download ICS</a>
+      </div>
+    </header>
+
+    <div class="panel controls">
+      <input id="q" class="input" type="search" placeholder="Search events, venues, towns…" />
+      <div class="chips">
+        <label class="chip"><input id="f-shrop" type="checkbox" /> Shropshire</label>
+        <label class="chip"><input id="f-chesh" type="checkbox" /> Cheshire</label>
+        <label class="chip"><input id="f-nw" type="checkbox" /> North Wales</label>
+      </div>
+      <div class="status" id="status">Loading events…</div>
+    </div>
+
+    <section class="grid" id="grid"></section>
+
+    <footer>
+      Tip: replace the EXAMPLE items in the ICS with real events. This page updates automatically.
+    </footer>
+  </div>
+</body>
+</html>
