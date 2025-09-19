@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:knutsford-music-festival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250609
 SUMMARY:Knutsford Music Festival
@@ -22,12 +22,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-social-weekend-friday-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250613
 DTEND;VALUE=DATE:20250614
 SUMMARY:Chester Races — Summer Social Weekend (Friday)
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Summer Social Weekend — corporate Friday. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Summer Social Weekend — Friday raceday (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
@@ -35,12 +35,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-social-weekend-saturday-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
 SUMMARY:Chester Races — Summer Social Weekend (Saturday)
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Summer Social Weekend — big Saturday crowd. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Summer Social Weekend — Saturday raceday (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
@@ -48,7 +48,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bolesworth-international-equestrian-festival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250707
 SUMMARY:Bolesworth International Equestrian Festival
@@ -61,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arley-garden-festival-30th-anniversary-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250630
 SUMMARY:Arley Garden Festival (30th Anniversary)
@@ -74,25 +74,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-saturday-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250629
 SUMMARY:Chester Races — Summer Saturday
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Quintessential summer raceday. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Mid-season Saturday meeting (official event page).\nMore: https://www.chester-races.com/whats-on/midsummer-meeting/
+URL:https://www.chester-races.com/whats-on/midsummer-meeting/
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-music-weekend-friday-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250712
 SUMMARY:Chester Races — Summer Music Weekend (Friday)
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:HedKandi — Ibiza classics after racing. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Racing plus music after racing (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing\,Music
 STATUS:CONFIRMED
@@ -100,7 +100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:conwy-river-festival-regatta-weekend-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
 SUMMARY:Conwy River Festival — Regatta Weekend
@@ -113,7 +113,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llangollen-fringe-festival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250721
 SUMMARY:Llangollen Fringe Festival
@@ -126,12 +126,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-music-weekend-saturday-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250712
 DTEND;VALUE=DATE:20250713
 SUMMARY:Chester Races — Summer Music Weekend (Saturday)
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Oasiz tribute after racing. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Saturday raceday with after-racing music (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing\,Music
 STATUS:CONFIRMED
@@ -139,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:conwy-river-festival-la-la-rally-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250717
 DTEND;VALUE=DATE:20250720
 SUMMARY:Conwy River Festival — LA-LA Rally
@@ -152,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:together-again-festival-bolesworth-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250728
 SUMMARY:Together Again Festival (Bolesworth)
@@ -165,20 +165,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-midsummer-meeting-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250726
 DTEND;VALUE=DATE:20250727
 SUMMARY:Chester Races — Midsummer Meeting
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Summer season in full swing. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Midsummer Saturday meeting (official event page).\nMore: https://www.chester-races.com/whats-on/midsummer-meeting/
+URL:https://www.chester-races.com/whats-on/midsummer-meeting/
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:national-eisteddfod-of-wales-wrexham-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250802
 DTEND;VALUE=DATE:20250810
 SUMMARY:National Eisteddfod of Wales — Wrexham
@@ -191,12 +191,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-family-fun-day-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250803
 DTEND;VALUE=DATE:20250804
 SUMMARY:Chester Races — Family Fun Day
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Family-focused raceday with activities. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Family-focused raceday with activities (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing\,Family
 STATUS:CONFIRMED
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:anglesey-county-show-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250814
 SUMMARY:Anglesey County Show
@@ -217,7 +217,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:oswestry-balloon-carnival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250818
 SUMMARY:Oswestry Balloon Carnival
@@ -229,8 +229,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minsterley-show-2025-150th-anniversary-2025@whatson.local
+DTSTAMP:20250919T133123Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:Minsterley Show 2025 (150th Anniversary)
+LOCATION:Manor Farm\, Cruckton\, SY5 8PW
+DESCRIPTION:150th anniversary show at the new showground (official site).\nMore: https://minsterleyshow.org.uk/tc-events/minsterley-show-2025/
+URL:https://minsterleyshow.org.uk/tc-events/minsterley-show-2025/
+CATEGORIES:Shropshire\,Minsterley\,Agricultural\,Family
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:shrewsbury-folk-festival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250826
 SUMMARY:Shrewsbury Folk Festival
@@ -243,7 +256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-steam-rally-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250824
 DTEND;VALUE=DATE:20250826
 SUMMARY:Shrewsbury Steam Rally
@@ -256,7 +269,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nantwich-food-festival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250901
 SUMMARY:Nantwich Food Festival
@@ -269,12 +282,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-ladies-day-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250831
 SUMMARY:Chester Races — Ladies Day
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Fashion\, music and racing — Ladies Day. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Ladies Day at the Roodee (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
@@ -282,7 +295,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-food-festival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250915
 SUMMARY:Ludlow Food Festival
@@ -294,26 +307,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chester-races-the-autumn-festival-friday-2025@whatson.local
-DTSTAMP:20250919T130952Z
+UID:chester-races-autumn-festival-friday-2025@whatson.local
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250913
-SUMMARY:Chester Races — The Autumn Festival (Friday)
+SUMMARY:Chester Races — Autumn Festival (Friday)
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Autumn Festival Friday raceday. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Autumn Festival — Friday raceday (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chester-races-the-autumn-festival-saturday-2025@whatson.local
-DTSTAMP:20250919T130952Z
+UID:chester-races-autumn-festival-saturday-2025@whatson.local
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250914
-SUMMARY:Chester Races — The Autumn Festival (Saturday)
+SUMMARY:Chester Races — Autumn Festival (Saturday)
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Premier Raceday — Autumn Festival Saturday. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Autumn Festival — Saturday raceday (official fixtures PDF).\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
@@ -321,20 +334,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-oktoberfest-season-finale-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 SUMMARY:Chester Races — Oktoberfest Season Finale
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Bavarian-themed season closer. Official 2025 fixtures PDF.\nMore: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-URL:https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
+DESCRIPTION:Bavarian-themed season closer (official event page).\nMore: https://www.chester-races.com/whats-on/oktoberfest-season-finale/
+URL:https://www.chester-races.com/whats-on/oktoberfest-season-finale/
 CATEGORIES:Cheshire\,Chester\,Racing\,Beer
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-half-marathon-metric-half-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20250928
 DTEND;VALUE=DATE:20250929
 SUMMARY:Shrewsbury Half Marathon & Metric Half
@@ -347,7 +360,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shropshire-oktoberfest-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251005
 SUMMARY:Shropshire Oktoberfest
@@ -360,7 +373,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:oswestry-10k-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251012
 DTEND;VALUE=DATE:20251013
 SUMMARY:Oswestry 10K
@@ -373,7 +386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llandudno-fireworks-display-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Llandudno Fireworks Display
@@ -386,7 +399,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-zoo-lanterns-and-light-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20260104
 SUMMARY:Chester Zoo — Lanterns and Light
@@ -399,7 +412,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llandudno-christmas-fayre-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251117
 SUMMARY:Llandudno Christmas Fayre
@@ -412,7 +425,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tatton-park-yuletide-trail-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251115
 DTEND;VALUE=DATE:20251224
 SUMMARY:Tatton Park — Yuletide Trail
@@ -425,7 +438,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:conwy-half-marathon-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
 SUMMARY:Conwy Half Marathon
@@ -438,7 +451,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-christmas-fair-league-of-friends-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251119
 SUMMARY:Ludlow Christmas Fair (League of Friends)
@@ -451,7 +464,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-christmas-market-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251223
 SUMMARY:Chester Christmas Market
@@ -464,7 +477,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tatton-park-the-christmas-mansion-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20260101
 SUMMARY:Tatton Park — The Christmas Mansion
@@ -477,7 +490,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-winter-festival-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251201
 SUMMARY:Ludlow Winter Festival
@@ -490,7 +503,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arley-hall-christmas-fantasy-florals-in-the-hall-2025@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251211
 SUMMARY:Arley Hall Christmas — Fantasy Florals in the Hall
@@ -503,7 +516,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:loopfest-shrewsbury-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
 SUMMARY:LOOPFEST (Shrewsbury)
@@ -516,12 +529,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boodles-may-festival-2026-trials-day-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Boodles May Festival 2026 — Trials Day
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Day 1 — Cheshire Oaks & Chester Vase trials.\nMore: https://www.chester-races.com/boodles-may-festival-2026/
+DESCRIPTION:Day 1 — Cheshire Oaks & Chester Vase trials (official).\nMore: https://www.chester-races.com/boodles-may-festival-2026/
 URL:https://www.chester-races.com/boodles-may-festival-2026/
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
@@ -529,12 +542,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boodles-may-festival-2026-ladies-day-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Boodles May Festival 2026 — Ladies Day
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Day 2 — Ladies Day.\nMore: https://www.chester-races.com/boodles-may-festival-2026/
+DESCRIPTION:Day 2 — Ladies Day (official).\nMore: https://www.chester-races.com/boodles-may-festival-2026/
 URL:https://www.chester-races.com/boodles-may-festival-2026/
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
@@ -542,7 +555,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-spring-festival-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
 SUMMARY:Ludlow Spring Festival
@@ -555,12 +568,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boodles-may-festival-2026-chester-cup-day-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Boodles May Festival 2026 — Chester Cup Day
 LOCATION:Chester Racecourse\, Chester
-DESCRIPTION:Day 3 — Ladbrokes Chester Cup.\nMore: https://www.chester-races.com/boodles-may-festival-2026/
+DESCRIPTION:Day 3 — Ladbrokes Chester Cup (official).\nMore: https://www.chester-races.com/boodles-may-festival-2026/
 URL:https://www.chester-races.com/boodles-may-festival-2026/
 CATEGORIES:Cheshire\,Chester\,Racing
 STATUS:CONFIRMED
@@ -568,7 +581,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shropshire-county-show-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Shropshire County Show
@@ -581,7 +594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:royal-cheshire-county-show-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260618
 SUMMARY:Royal Cheshire County Show
@@ -594,7 +607,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-food-festival-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
 SUMMARY:Shrewsbury Food Festival
@@ -607,7 +620,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arley-garden-festival-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
 SUMMARY:Arley Garden Festival
@@ -620,7 +633,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llangollen-international-musical-eisteddfod-core-week-2026@whatson.local
-DTSTAMP:20250919T130952Z
+DTSTAMP:20250919T133123Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260713
 SUMMARY:Llangollen International Musical Eisteddfod — Core Week
@@ -628,6 +641,19 @@ LOCATION:Llangollen\, Denbighshire
 DESCRIPTION:International competitions and evening concerts across Eisteddfod week.\nMore: https://international-eisteddfod.co.uk/whats-on/eisteddfod-week/
 URL:https://international-eisteddfod.co.uk/whats-on/eisteddfod-week/
 CATEGORIES:North Wales\,Denbighshire\,Music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minsterley-show-2026-2026@whatson.local
+DTSTAMP:20250919T133123Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Minsterley Show 2026
+LOCATION:Manor Farm\, Cruckton\, SY5 8PW
+DESCRIPTION:Next year’s show — date announced by organisers.\nMore: https://www.facebook.com/officialminsterleyshow/
+URL:https://www.facebook.com/officialminsterleyshow/
+CATEGORIES:Shropshire\,Minsterley\,Agricultural\,Family
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
