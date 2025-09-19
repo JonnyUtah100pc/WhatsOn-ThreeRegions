@@ -1,0 +1,44 @@
+name: Build ICS (What’s On)
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - scripts/**
+      - data/**
+      - .github/workflows/build-ics.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build ICS
+        run: python scripts/build_ics.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add whatson-shropshire-cheshire-northwales.ics || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "auto: build ICS"
+          git push
