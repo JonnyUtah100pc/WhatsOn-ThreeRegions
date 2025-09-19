@@ -24,12 +24,9 @@ jobs:
 
       - name: Show repo tree
         run: |
-          echo "== repo root =="
-          ls -la
-          echo "== scripts =="
-          ls -la scripts || true
-          echo "== data =="
-          ls -la data || true
+          echo "== repo root ==" && ls -la
+          echo "== scripts ==" && ls -la scripts || true
+          echo "== data ==" && ls -la data || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -47,11 +44,11 @@ jobs:
       - name: Validate YAML (warn only)
         run: |
           python - <<'PY'
-          import os, yaml, sys
-          for p in ("data/events.yaml",):
-              if not os.path.exists(p):
-                  print(f"[warn] missing: {p}")
-                  continue
+          import os, yaml
+          p = "data/events.yaml"
+          if not os.path.exists(p):
+              print(f"[warn] missing: {p}")
+          else:
               try:
                   yaml.safe_load(open(p, encoding="utf-8"))
                   print(f"[ok] parsed: {p}")
@@ -64,14 +61,27 @@ jobs:
           set -x
           python scripts/build_ics.py
 
-      - name: Count events
+      - name: Count events (fail if zero)
         run: |
-          if [ -f whatson-shropshire-cheshire-northwales.ics ]; then
-            echo "VEVENT count: $(grep -c '^BEGIN:VEVENT' whatson-shropshire-cheshire-northwales.ics || echo 0)"
-          else
+          if [ ! -f whatson-shropshire-cheshire-northwales.ics ]; then
             echo "::error::ICS file not found at repo root."
             exit 1
           fi
+          COUNT=$(grep -c '^BEGIN:VEVENT' whatson-shropshire-cheshire-northwales.ics || echo 0)
+          echo "VEVENT count: ${COUNT}"
+          if [ "$COUNT" -eq 0 ]; then
+            echo "::error::ICS contains zero events."
+            exit 1
+          fi
+
+      - name: Sanity-check ICS (no empty props)
+        run: |
+          # Fail if Apple-hostile empty properties exist
+          if grep -nE '^(URL|CATEGORIES|DESCRIPTION):\s*$' whatson-shropshire-cheshire-northwales.ics; then
+            echo "::error::Found empty ICS properties (URL/CATEGORIES/DESCRIPTION). Fix build_ics.py."
+            exit 1
+          fi
+          echo "ICS basic sanity checks passed."
 
       - name: Upload ICS artifact (for debugging)
         uses: actions/upload-artifact@v4
@@ -96,4 +106,3 @@ jobs:
           echo "Push rejected; rebasing…"
           git pull --rebase origin main || true
           git push origin HEAD:main || git push --force-with-lease origin HEAD:main
-
