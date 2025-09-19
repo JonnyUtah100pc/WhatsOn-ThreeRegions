@@ -1,0 +1,25 @@
+events:
+  # --- Replace these EXAMPLES with real events ---
+  - summary: EXAMPLE — Shrewsbury event (replace me)
+    start: 2025-10-01
+    end: 2025-10-01
+    location: Shrewsbury, Shropshire
+    url: https://example.com/shrewsbury
+    categories: Shropshire,Shrewsbury
+    description: Replace this with a real event.
+
+  - summary: EXAMPLE — Chester event (replace me)
+    start: 2025-10-15
+    end: 2025-10-15
+    location: Chester, Cheshire
+    url: https://example.com/chester
+    categories: Cheshire,Chester
+    description: Replace this with a real event.
+
+  - summary: EXAMPLE — Llangollen event (replace me)
+    start: 2025-11-05
+    end: 2025-11-05
+    location: Llangollen, North Wales
+    url: https://example.com/llangollen
+    categories: North Wales,Denbighshire
+    description: Replace this with a real event.
