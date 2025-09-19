@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # Build whatson-shropshire-cheshire-northwales.ics from data/events.yaml
-# - All-day events with exclusive DTEND (RFC 5545)
-# - Stable UID per (summary + year)
-# - Window filter: 2025-06-01 .. 2026-12-31
-# - Sorted by start date
-# - Robust logging; won’t crash on YAML issues
+# Safe for Apple Calendar:
+# - Never writes empty URL/CATEGORIES/DESCRIPTION properties
+# - All-day events use exclusive DTEND (RFC 5545)
+# - CRLF line endings
+# - Stable UIDs (summary+year)
+# - Window: 2025-06-01 .. 2026-12-31
 
 import os, re, unicodedata, sys
 from datetime import datetime, timedelta, date
@@ -26,6 +27,7 @@ DTSTAMP  = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
 
 WINDOW_START = date(2025, 6, 1)
 WINDOW_END   = date(2026, 12, 31)
+EOL = "\r\n"  # Apple-friendly line endings
 
 def slugify(text: str) -> str:
     t = unicodedata.normalize("NFKD", text).encode("ascii","ignore").decode("ascii")
@@ -38,14 +40,14 @@ def esc(s: str) -> str:
 
 def load_events(path: str) -> List[Dict]:
     if not os.path.exists(path):
-        print(f"[warn] missing file: {path} (continuing with 0 events)")
+        print(f"[warn] missing file: {path} (0 events)")
         return []
     try:
         with open(path, "r", encoding="utf-8") as f:
             y = yaml.safe_load(f) or {}
         evs = y.get("events", [])
         if not isinstance(evs, list):
-            print("[warn] 'events' is not a list; ignoring.")
+            print("[warn] 'events' key is not a list; ignoring.")
             return []
         return evs
     except Exception as ex:
@@ -63,50 +65,56 @@ def build_vevent(e: Dict) -> str:
         summary   = e["summary"]
         start_str = e["start"]
     except KeyError as ex:
-        print(f"[warn] event missing required field {ex}; skipping: {e}")
+        print(f"[warn] missing required field {ex} -> skipping: {e}")
         return ""
 
     end_str   = e.get("end", start_str)
     location  = e.get("location","")
-    url       = e.get("url","")
-    cats      = e.get("categories","")
-    desc      = e.get("description","")
+    url       = (e.get("url","") or "").strip()
+    cats      = (e.get("categories","") or "").strip().strip(",")
+    desc      = e.get("description","") or ""
 
     try:
         s = parse_ymd(start_str)
         e_date = parse_ymd(end_str)
     except Exception as ex:
-        print(f"[warn] bad date(s) in event '{summary}': {ex}; skipping")
+        print(f"[warn] bad date(s) in '{summary}': {ex}; skipping")
         return ""
-
     if e_date < s: e_date = s
-    if not in_window(s, e_date):
-        return ""  # out of window
+    if not in_window(s, e_date):  # outside window
+        return ""
 
     dtend = (e_date + timedelta(days=1)).strftime("%Y%m%d")
     uid = f"{slugify(summary)}-{s.year}@whatson.local"
 
-    # Build DESCRIPTION without backslashes inside an f-string expression
-    desc_line = "DESCRIPTION:" + esc(desc)
-    if url:
-        desc_line += "\\nMore: " + url
+    lines = []
+    lines.append("BEGIN:VEVENT")
+    lines.append(f"UID:{uid}")
+    lines.append(f"DTSTAMP:{DTSTAMP}")
+    lines.append(f"DTSTART;VALUE=DATE:{s.strftime('%Y%m%d')}")
+    lines.append(f"DTEND;VALUE=DATE:{dtend}")
+    lines.append(f"SUMMARY:{esc(summary)}")
+    if location:
+        lines.append(f"LOCATION:{esc(location)}")
 
-    lines = [
-        "BEGIN:VEVENT",
-        f"UID:{uid}",
-        f"DTSTAMP:{DTSTAMP}",
-        f"DTSTART;VALUE=DATE:{s.strftime('%Y%m%d')}",
-        f"DTEND;VALUE=DATE:{dtend}",
-        f"SUMMARY:{esc(summary)}",
-        f"LOCATION:{esc(location)}",
-        desc_line,
-        f"URL:{url}" if url else "URL:",
-        f"CATEGORIES:{esc(cats)}" if cats else "CATEGORIES:",
-        "STATUS:CONFIRMED",
-        "TRANSP:TRANSPARENT",
-        "END:VEVENT",
-    ]
-    return "\n".join(lines)
+    # DESCRIPTION (only if there is text or URL)
+    desc_parts = []
+    if desc:
+        desc_parts.append(esc(desc))
+    if url:
+        desc_parts.append("More: " + url)
+    if desc_parts:
+        lines.append("DESCRIPTION:" + "\\n".join(desc_parts))
+
+    if url:
+        lines.append(f"URL:{url}")
+    if cats:
+        lines.append(f"CATEGORIES:{esc(cats)}")
+
+    lines.append("STATUS:CONFIRMED")
+    lines.append("TRANSP:TRANSPARENT")
+    lines.append("END:VEVENT")
+    return EOL.join(lines)
 
 def main() -> int:
     evs = load_events(IN_YAML)
@@ -133,7 +141,7 @@ def main() -> int:
         seen.add(key)
         vevents.append(ve)
 
-    vcal = "\n".join([
+    header = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         f"PRODID:{PRODID}",
@@ -143,11 +151,12 @@ def main() -> int:
         f"X-WR-CALNAME:{esc(CAL_NAME)}",
         "REFRESH-INTERVAL;VALUE=DURATION:P1D",
         "X-PUBLISHED-TTL:PT12H",
-        *vevents,
-        "END:VCALENDAR",
-    ])
+    ]
+    footer = ["END:VCALENDAR"]
 
-    with open(OUT_ICS, "w", encoding="utf-8") as f:
+    vcal = EOL.join(header + vevents + footer) + EOL  # final EOL
+
+    with open(OUT_ICS, "w", encoding="utf-8", newline="") as f:
         f.write(vcal)
 
     print(f"Wrote {OUT_ICS} with {len(vevents)} events.")
@@ -159,5 +168,4 @@ if __name__ == "__main__":
     except Exception as ex:
         print(f"::error::Unexpected error in build: {ex}")
         sys.exit(1)
-
 
