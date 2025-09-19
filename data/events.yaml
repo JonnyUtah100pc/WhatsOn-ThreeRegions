@@ -1,326 +1,391 @@
 events:
   # ——— Shropshire ———
-  - summary: Shrewsbury Folk Festival
-    start: 2025-08-22
-    end: 2025-08-25
-    location: West Mid Showground, Shrewsbury
-    url: https://shrewsburyfolkfestival.co.uk/home/
-    categories: Shropshire,Shrewsbury
-    description: Family-friendly folk & roots festival over the August Bank Holiday.
+  - summary: "Shrewsbury Folk Festival"
+    start: "2025-08-22"
+    end: "2025-08-25"
+    location: "West Mid Showground, Shrewsbury"
+    url: "https://shrewsburyfolkfestival.co.uk/home/"
+    categories: "Shropshire,Shrewsbury"
+    description: "Family-friendly folk & roots festival over the August Bank Holiday."
 
-  - summary: Shrewsbury Steam Rally
-    start: 2025-08-24
-    end: 2025-08-25
-    location: Onslow Park, Shrewsbury
-    url: https://www.shrewsburysteamrally.co.uk/
-    categories: Shropshire,Shrewsbury
-    description: Traction engines, vintage vehicles and arena displays.
+  - summary: "Shrewsbury Steam Rally"
+    start: "2025-08-24"
+    end: "2025-08-25"
+    location: "Onslow Park, Shrewsbury"
+    url: "https://www.shrewsburysteamrally.co.uk/"
+    categories: "Shropshire,Shrewsbury"
+    description: "Traction engines, vintage vehicles and arena displays."
 
-  - summary: Ludlow Food Festival
-    start: 2025-09-12
-    end: 2025-09-14
-    location: Ludlow Castle, Ludlow
-    url: https://www.ludlowfoodfestival.co.uk/
-    categories: Shropshire,Ludlow,Food
-    description: Showcase of independent food & drink producers from the Marches.
+  - summary: "Ludlow Food Festival"
+    start: "2025-09-12"
+    end: "2025-09-14"
+    location: "Ludlow Castle, Ludlow"
+    url: "https://www.ludlowfoodfestival.co.uk/"
+    categories: "Shropshire,Ludlow,Food"
+    description: "Showcase of independent food & drink producers from the Marches."
 
-  - summary: Shropshire Oktoberfest
-    start: 2025-10-03
-    end: 2025-10-04
-    location: The Quarry, Shrewsbury
-    url: https://www.shropshireoktoberfest.co.uk/
-    categories: Shropshire,Shrewsbury,Food,Beer
-    description: Ales, live music, comedy and street food in a huge marquee.
+  - summary: "Shropshire Oktoberfest"
+    start: "2025-10-03"
+    end: "2025-10-04"
+    location: "The Quarry, Shrewsbury"
+    url: "https://www.shropshireoktoberfest.co.uk/"
+    categories: "Shropshire,Shrewsbury,Food,Beer"
+    description: "Ales, live music, comedy and street food in a huge marquee."
 
-  - summary: Shrewsbury Half Marathon & Metric Half
-    start: 2025-09-28
-    end: 2025-09-28
-    location: West Mid Showground, Shrewsbury
-    url: https://originalshrewsbury.co.uk/events/shrewsbury-half-marathon-2
-    categories: Shropshire,Shrewsbury,Sport,Run
-    description: Half and Metric Half across bridges, the Quarry and town centre.
+  - summary: "Shrewsbury Half Marathon & Metric Half"
+    start: "2025-09-28"
+    end: "2025-09-28"
+    location: "West Mid Showground, Shrewsbury"
+    url: "https://originalshrewsbury.co.uk/events/shrewsbury-half-marathon-2"
+    categories: "Shropshire,Shrewsbury,Sport,Run"
+    description: "Half and Metric Half across bridges, the Quarry and town centre."
 
-  - summary: Oswestry 10K
-    start: 2025-10-12
-    end: 2025-10-12
-    location: Oswestry Town Centre
-    url: https://www.adrenalinesportingevents.co.uk/oswestry-10k-run-running-event/
-    categories: Shropshire,Oswestry,Sport,Run
-    description: Popular closed-roads 10K through Oswestry.
+  - summary: "Oswestry 10K"
+    start: "2025-10-12"
+    end: "2025-10-12"
+    location: "Oswestry Town Centre"
+    url: "https://www.adrenalinesportingevents.co.uk/oswestry-10k-run-running-event/"
+    categories: "Shropshire,Oswestry,Sport,Run"
+    description: "Popular closed-roads 10K through Oswestry."
 
-  - summary: Ludlow Winter Festival
-    start: 2025-11-28
-    end: 2025-11-30
-    location: Ludlow town centre
-    url: https://www.ludlow.gov.uk/visit-ludlow/festivals
-    categories: Shropshire,Ludlow,Christmas,Festival
-    description: Town-wide winter celebration with music, trails and the lights switch-on.
+  - summary: "Ludlow Winter Festival"
+    start: "2025-11-28"
+    end: "2025-11-30"
+    location: "Ludlow town centre"
+    url: "https://www.ludlow.gov.uk/visit-ludlow/festivals"
+    categories: "Shropshire,Ludlow,Christmas,Festival"
+    description: "Town-wide winter celebration with music, trails and the lights switch-on."
 
-  - summary: Ludlow Christmas Fair (League of Friends)
-    start: 2025-11-17
-    end: 2025-11-18
-    location: Ludlow Racecourse, Bromfield
-    url: https://www.ludlowchristmasfair.co.uk/
-    categories: Shropshire,Ludlow,Christmas,Market
-    description: Charity Christmas fair with 50+ stalls; evening opening on Monday.
+  - summary: "Ludlow Christmas Fair (League of Friends)"
+    start: "2025-11-17"
+    end: "2025-11-18"
+    location: "Ludlow Racecourse, Bromfield"
+    url: "https://www.ludlowchristmasfair.co.uk/"
+    categories: "Shropshire,Ludlow,Christmas,Market"
+    description: "Charity Christmas fair with 50+ stalls; evening opening on Monday."
 
-  - summary: Oswestry Balloon Carnival
-    start: 2025-08-16
-    end: 2025-08-17
-    location: Cae Glas Park & town centre, Oswestry
-    url: https://www.oswestryballooncarnival.info/
-    categories: Shropshire,Oswestry,Family,Airshow
-    description: Town-centre balloon festival with tethered displays (weather dependent).
+  - summary: "Oswestry Balloon Carnival"
+    start: "2025-08-16"
+    end: "2025-08-17"
+    location: "Cae Glas Park & town centre, Oswestry"
+    url: "https://www.oswestryballooncarnival.info/"
+    categories: "Shropshire,Oswestry,Family,Airshow"
+    description: "Town-centre balloon festival with tethered displays (weather dependent)."
 
-  - summary: LOOPFEST (Shrewsbury)
-    start: 2026-05-01
-    end: 2026-05-03
-    location: Multiple venues, Shrewsbury
-    url: https://loopfest.co.uk/
-    categories: Shropshire,Shrewsbury,Music
-    description: Multi-venue music festival across Shrewsbury town centre.
+  - summary: "LOOPFEST (Shrewsbury)"
+    start: "2026-05-01"
+    end: "2026-05-03"
+    location: "Multiple venues, Shrewsbury"
+    url: "https://loopfest.co.uk/"
+    categories: "Shropshire,Shrewsbury,Music"
+    description: "Multi-venue music festival across Shrewsbury town centre."
 
-  - summary: Ludlow Spring Festival
-    start: 2026-05-08
-    end: 2026-05-10
-    location: Ludlow Castle, Ludlow
-    url: https://www.ludlowspringfestival.co.uk/
-    categories: Shropshire,Ludlow,Food,Beer
-    description: Real ale, food, music and classic vehicles.
+  - summary: "Ludlow Spring Festival"
+    start: "2026-05-08"
+    end: "2026-05-10"
+    location: "Ludlow Castle, Ludlow"
+    url: "https://www.ludlowspringfestival.co.uk/"
+    categories: "Shropshire,Ludlow,Food,Beer"
+    description: "Real ale, food, music and classic vehicles."
 
-  - summary: Shrewsbury Food Festival
-    start: 2026-06-27
-    end: 2026-06-28
-    location: The Quarry, Shrewsbury
-    url: https://www.shrewsburyfoodfestival.co.uk/
-    categories: Shropshire,Shrewsbury,Food,Family
-    description: Two-day food, drink and music festival in the Quarry.
+  - summary: "Shrewsbury Food Festival"
+    start: "2026-06-27"
+    end: "2026-06-28"
+    location: "The Quarry, Shrewsbury"
+    url: "https://www.shrewsburyfoodfestival.co.uk/"
+    categories: "Shropshire,Shrewsbury,Food,Family"
+    description: "Two-day food, drink and music festival in the Quarry."
 
-  - summary: Shropshire County Show
-    start: 2026-05-23
-    end: 2026-05-23
-    location: West Mid Showground, Shrewsbury
-    url: https://showingscene.com/events/shropshire-county-show-2026-may-2026
-    categories: Shropshire,Shrewsbury,Agricultural,Family
-    description: County agricultural show with main-ring displays, livestock and rural crafts.
+  - summary: "Shropshire County Show"
+    start: "2026-05-23"
+    end: "2026-05-23"
+    location: "West Mid Showground, Shrewsbury"
+    url: "https://showingscene.com/events/shropshire-county-show-2026-may-2026"
+    categories: "Shropshire,Shrewsbury,Agricultural,Family"
+    description: "County agricultural show with main-ring displays, livestock and rural crafts."
 
   # ——— Cheshire ———
-  - summary: Bolesworth International Equestrian Festival
-    start: 2025-06-27
-    end: 2025-07-06
-    location: Bolesworth Estate, Tattenhall (Cheshire)
-    url: https://bolesworth.com/
-    categories: Cheshire,Tattenhall,Sport,Equestrian
-    description: Showjumping festival with family entertainment.
+  - summary: "Bolesworth International Equestrian Festival"
+    start: "2025-06-27"
+    end: "2025-07-06"
+    location: "Bolesworth Estate, Tattenhall (Cheshire)"
+    url: "https://bolesworth.com/"
+    categories: "Cheshire,Tattenhall,Sport,Equestrian"
+    description: "Showjumping festival with family entertainment."
 
-  - summary: Together Again Festival (Bolesworth)
-    start: 2025-07-25
-    end: 2025-07-27
-    location: Bolesworth Castle, Tattenhall (Cheshire)
-    url: https://bolesworth.com/component-page/
-    categories: Cheshire,Tattenhall,Music,Festival
-    description: Summer music festival weekend on the Bolesworth estate.
+  - summary: "Together Again Festival (Bolesworth)"
+    start: "2025-07-25"
+    end: "2025-07-27"
+    location: "Bolesworth Castle, Tattenhall (Cheshire)"
+    url: "https://bolesworth.com/component-page/"
+    categories: "Cheshire,Tattenhall,Music,Festival"
+    description: "Summer music festival weekend on the Bolesworth estate."
 
-  - summary: Knutsford Music Festival
-    start: 2025-06-05
-    end: 2025-06-08
-    location: Venues across Knutsford
-    url: https://www.knutsfordtowncouncil.gov.uk/music-festival
-    categories: Cheshire,Knutsford,Music
-    description: Town-wide festival programmed by Knutsford Town Council.
+  - summary: "Knutsford Music Festival"
+    start: "2025-06-05"
+    end: "2025-06-08"
+    location: "Venues across Knutsford"
+    url: "https://www.knutsfordtowncouncil.gov.uk/music-festival"
+    categories: "Cheshire,Knutsford,Music"
+    description: "Town-wide festival programmed by Knutsford Town Council."
 
-  - summary: Arley Garden Festival (30th Anniversary)
-    start: 2025-06-28
-    end: 2025-06-29
-    location: Arley Hall & Gardens, Northwich
-    url: https://www.arleyhallandgardens.com/whats-on/whats-on-in-june/
-    categories: Cheshire,Northwich,Garden,Family
-    description: Specialist nurseries, displays, talks and access to hall & gardens.
+  - summary: "Arley Garden Festival (30th Anniversary)"
+    start: "2025-06-28"
+    end: "2025-06-29"
+    location: "Arley Hall & Gardens, Northwich"
+    url: "https://www.arleyhallandgardens.com/whats-on/whats-on-in-june/"
+    categories: "Cheshire,Northwich,Garden,Family"
+    description: "Specialist nurseries, displays, talks and access to hall & gardens."
 
-  - summary: Nantwich Food Festival
-    start: 2025-08-29
-    end: 2025-08-31
-    location: Nantwich town centre (Love Lane • Bowling Green • High St)
-    url: https://www.nantwichfoodfestival.co.uk/
-    categories: Cheshire,Nantwich,Food,Market
-    description: Free three-day town takeover with food theatres, music and 200+ exhibitors.
+  - summary: "Nantwich Food Festival"
+    start: "2025-08-29"
+    end: "2025-08-31"
+    location: "Nantwich town centre (Love Lane • Bowling Green • High St)"
+    url: "https://www.nantwichfoodfestival.co.uk/"
+    categories: "Cheshire,Nantwich,Food,Market"
+    description: "Free three-day town takeover with food theatres, music and 200+ exhibitors."
 
-  - summary: Chester Christmas Market
-    start: 2025-11-19
-    end: 2025-12-22
-    location: Town Hall Square, Chester
-    url: https://visitcheshire.com/events/chester-christmas-market
-    categories: Cheshire,Chester,Christmas,Market
-    description: 70+ wooden chalets with crafts, food and festive drinks.
+  - summary: "Chester Christmas Market"
+    start: "2025-11-19"
+    end: "2025-12-22"
+    location: "Town Hall Square, Chester"
+    url: "https://visitcheshire.com/events/chester-christmas-market"
+    categories: "Cheshire,Chester,Christmas,Market"
+    description: "70+ wooden chalets with crafts, food and festive drinks."
 
-  - summary: Chester Zoo — Lanterns and Light
-    start: 2025-11-13
-    end: 2026-01-03
-    location: Chester Zoo, Chester
-    url: https://www.chesterzoo.org/events/lanterns-and-light/
-    categories: Cheshire,Chester,Christmas,Family
-    description: After-dark illuminated trail on selected dates.
+  - summary: "Chester Zoo — Lanterns and Light"
+    start: "2025-11-13"
+    end: "2026-01-03"
+    location: "Chester Zoo, Chester"
+    url: "https://www.chesterzoo.org/events/lanterns-and-light/"
+    categories: "Cheshire,Chester,Christmas,Family"
+    description: "After-dark illuminated trail on selected dates."
 
-  - summary: Tatton Park — Yuletide Trail
-    start: 2025-11-15
-    end: 2025-12-23
-    location: Tatton Park, Knutsford
-    url: https://www.tattonpark.org.uk/events_at_tatton_park/christmas_at_tatton_park/christmas-at-tatton-park.aspx
-    categories: Cheshire,Knutsford,Christmas
-    description: Festive garden trail (selected dates).
+  - summary: "Tatton Park — Yuletide Trail"
+    start: "2025-11-15"
+    end: "2025-12-23"
+    location: "Tatton Park, Knutsford"
+    url: "https://www.tattonpark.org.uk/events_at_tatton_park/christmas_at_tatton_park/christmas-at-tatton-park.aspx"
+    categories: "Cheshire,Knutsford,Christmas"
+    description: "Festive garden trail (selected dates)."
 
-  - summary: Tatton Park — The Christmas Mansion
-    start: 2025-11-22
-    end: 2025-12-31
-    location: Tatton Park, Knutsford
-    url: https://www.tattonpark.org.uk/events_at_tatton_park/event-listings/2025/november/the-christmas-mansion.aspx
-    categories: Cheshire,Knutsford,Christmas
-    description: Decorated Mansion experience (selected dates).
+  - summary: "Tatton Park — The Christmas Mansion"
+    start: "2025-11-22"
+    end: "2025-12-31"
+    location: "Tatton Park, Knutsford"
+    url: "https://www.tattonpark.org.uk/events_at_tatton_park/event-listings/2025/november/the-christmas-mansion.aspx"
+    categories: "Cheshire,Knutsford,Christmas"
+    description: "Decorated Mansion experience (selected dates)."
 
-  - summary: Royal Cheshire County Show
-    start: 2026-06-16
-    end: 2026-06-17
-    location: Cheshire Showground, Tabley (Knutsford)
-    url: https://royalcheshireshow.ticketsrv.co.uk/
-    categories: Cheshire,Knutsford,Agricultural,Family
-    description: Two-day agricultural show with livestock, rings, food village and countryside attractions.
+  - summary: "Royal Cheshire County Show"
+    start: "2026-06-16"
+    end: "2026-06-17"
+    location: "Cheshire Showground, Tabley (Knutsford)"
+    url: "https://royalcheshireshow.ticketsrv.co.uk/"
+    categories: "Cheshire,Knutsford,Agricultural,Family"
+    description: "Two-day agricultural show with livestock, rings, food village and countryside attractions."
 
-  - summary: Arley Garden Festival
-    start: 2026-06-27
-    end: 2026-06-28
-    location: Arley Hall & Gardens, Northwich
-    url: https://www.arleyhallandgardens.com/whats-on/whats-on-in-june/
-    categories: Cheshire,Northwich,Garden,Family
-    description: Annual garden festival — weekend dates confirmed.
+  - summary: "Arley Garden Festival"
+    start: "2026-06-27"
+    end: "2026-06-28"
+    location: "Arley Hall & Gardens, Northwich"
+    url: "https://www.arleyhallandgardens.com/whats-on/whats-on-in-june/"
+    categories: "Cheshire,Northwich,Garden,Family"
+    description: "Annual garden festival — weekend dates confirmed."
 
-  # ——— Cheshire Races — Chester Racecourse fixtures (official) ———
-  - summary: Chester Races — Summer Social Weekend (Friday)
-    start: 2025-06-13
-    end: 2025-06-13
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing
-    description: Summer Social Weekend — corporate Friday. Official 2025 fixtures PDF.
+  # ——— Cheshire Races — Chester Racecourse fixtures (official 2025) ———
+  - summary: "Chester Races — Summer Social Weekend (Friday)"
+    start: "2025-06-13"
+    end: "2025-06-13"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing"
+    description: "Summer Social Weekend — corporate Friday. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Summer Social Weekend (Saturday)
-    start: 2025-06-14
-    end: 2025-06-14
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing
-    description: Summer Social Weekend — big Saturday crowd. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Summer Social Weekend (Saturday)"
+    start: "2025-06-14"
+    end: "2025-06-14"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing"
+    description: "Summer Social Weekend — big Saturday crowd. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Summer Saturday
-    start: 2025-06-28
-    end: 2025-06-28
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing
-    description: Quintessential summer raceday. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Summer Saturday"
+    start: "2025-06-28"
+    end: "2025-06-28"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing"
+    description: "Quintessential summer raceday. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Summer Music Weekend (Friday)
-    start: 2025-07-11
-    end: 2025-07-11
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing,Music
-    description: HedKandi — Ibiza classics after racing. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Summer Music Weekend (Friday)"
+    start: "2025-07-11"
+    end: "2025-07-11"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing,Music"
+    description: "HedKandi — Ibiza classics after racing. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Summer Music Weekend (Saturday)
-    start: 2025-07-12
-    end: 2025-07-12
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing,Music
-    description: Oasiz tribute after racing. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Summer Music Weekend (Saturday)"
+    start: "2025-07-12"
+    end: "2025-07-12"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing,Music"
+    description: "Oasiz tribute after racing. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Midsummer Meeting
-    start: 2025-07-26
-    end: 2025-07-26
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing
-    description: Summer season in full swing. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Midsummer Meeting"
+    start: "2025-07-26"
+    end: "2025-07-26"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing"
+    description: "Summer season in full swing. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Family Fun Day
-    start: 2025-08-03
-    end: 2025-08-03
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing,Family
-    description: Family-focused raceday with activities. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Family Fun Day"
+    start: "2025-08-03"
+    end: "2025-08-03"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing,Family"
+    description: "Family-focused raceday with activities. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Ladies Day
-    start: 2025-08-30
-    end: 2025-08-30
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing
-    description: Fashion, music and racing — Ladies Day. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Ladies Day"
+    start: "2025-08-30"
+    end: "2025-08-30"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing"
+    description: "Fashion, music and racing — Ladies Day. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — The Autumn Festival (Friday)
-    start: 2025-09-12
-    end: 2025-09-12
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing
-    description: Autumn Festival Friday raceday. Official 2025 fixtures PDF.
+  - summary: "Chester Races — The Autumn Festival (Friday)"
+    start: "2025-09-12"
+    end: "2025-09-12"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing"
+    description: "Autumn Festival Friday raceday. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — The Autumn Festival (Saturday)
-    start: 2025-09-13
-    end: 2025-09-13
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing
-    description: Premier Raceday — Autumn Festival Saturday. Official 2025 fixtures PDF.
+  - summary: "Chester Races — The Autumn Festival (Saturday)"
+    start: "2025-09-13"
+    end: "2025-09-13"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing"
+    description: "Premier Raceday — Autumn Festival Saturday. Official 2025 fixtures PDF."
 
-  - summary: Chester Races — Oktoberfest Season Finale
-    start: 2025-09-20
-    end: 2025-09-20
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf
-    categories: Cheshire,Chester,Racing,Beer
-    description: Bavarian-themed season closer. Official 2025 fixtures PDF.
+  - summary: "Chester Races — Oktoberfest Season Finale"
+    start: "2025-09-20"
+    end: "2025-09-20"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    categories: "Cheshire,Chester,Racing,Beer"
+    description: "Bavarian-themed season closer. Official 2025 fixtures PDF."
 
   # ——— Boodles May Festival 2026 (official) ———
-  - summary: Boodles May Festival 2026 — Trials Day
-    start: 2026-05-06
-    end: 2026-05-06
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/boodles-may-festival-2026/
-    categories: Cheshire,Chester,Racing
-    description: Day 1 — Cheshire Oaks & Chester Vase trials.
+  - summary: "Boodles May Festival 2026 — Trials Day"
+    start: "2026-05-06"
+    end: "2026-05-06"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/boodles-may-festival-2026/"
+    categories: "Cheshire,Chester,Racing"
+    description: "Day 1 — Cheshire Oaks & Chester Vase trials."
 
-  - summary: Boodles May Festival 2026 — Ladies Day
-    start: 2026-05-07
-    end: 2026-05-07
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/boodles-may-festival-2026/
-    categories: Cheshire,Chester,Racing
-    description: Day 2 — Ladies Day.
+  - summary: "Boodles May Festival 2026 — Ladies Day"
+    start: "2026-05-07"
+    end: "2026-05-07"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/boodles-may-festival-2026/"
+    categories: "Cheshire,Chester,Racing"
+    description: "Day 2 — Ladies Day."
 
-  - summary: Boodles May Festival 2026 — Chester Cup Day
-    start: 2026-05-08
-    end: 2026-05-08
-    location: Chester Racecourse, Chester
-    url: https://www.chester-races.com/boodles-may-festival-2026/
-    categories: Cheshire,Chester,Racing
-    description: Day 3 — Ladbrokes Chester Cup.
+  - summary: "Boodles May Festival 2026 — Chester Cup Day"
+    start: "2026-05-08"
+    end: "2026-05-08"
+    location: "Chester Racecourse, Chester"
+    url: "https://www.chester-races.com/boodles-may-festival-2026/"
+    categories: "Cheshire,Chester,Racing"
+    description: "Day 3 — Ladbrokes Chester Cup."
 
   # ——— Arley Hall Christmas 2025 (official) ———
-  - summary: Arley Hall Christmas — Fantasy Florals in the Hall
-    start: 2025-12-05
-    end: 2025-12-10
-    location: Arley Hall & Gardens, Northwich
-    url: https://www.arleyhallandgardens.com/whats-on/whats-on-in-december/
-    categories: Cheshire,Northwich,Christmas
-    description: Hall & chapel decorated with fresh flowers and festive displays; choir each day.
+  - summary: "Arley Hall Christmas — Fantasy Florals in the Hall"
+    start: "2025-12-05"
+    end: "2025-12-10"
+    location: "Arley Hall & Gardens, Northwich"
+    url: "https://www.arleyhallandgardens.com/whats-on/whats-on-in-december/"
+    categories: "Cheshire,Northwich,Christmas"
+    description: "Hall & chapel decorated with fresh flowers and festive displays; choir each day."
 
   # ——— North Wales (official) ———
-  - summary: Conwy River Festival — Regatta Weekend
-    start: 2025-07-11
-    end: 2025-07-13
-    location: Conwy Estuary & Harbour, Conwy
-    url: https://conwyriverfestival.org/2025-festival-entries-are-now-open/
-    categories: North Wales,Conwy,Maritime,Free
-    descri
+  - summary: "Conwy River Festival — Regatta Weekend"
+    start: "2025-07-11"
+    end: "2025-07-13"
+    location: "Conwy Estuary & Harbour, Conwy"
+    url: "https://conwyriverfestival.org/2025-festival-entries-are-now-open/"
+    categories: "North Wales,Conwy,Maritime,Free"
+    description: "Sailing in Conwy Bay and river racing; quayside festivities."
+
+  - summary: "Conwy River Festival — LA-LA Rally"
+    start: "2025-07-17"
+    end: "2025-07-19"
+    location: "Conwy → Caernarfon → Conwy (via the Swellies)"
+    url: "https://conwyriverfestival.org/"
+    categories: "North Wales,Conwy,Maritime"
+    description: "Power and sail rally to Caernarfon and back as part of festival week."
+
+  - summary: "Llangollen Fringe Festival"
+    start: "2025-07-11"
+    end: "2025-07-20"
+    location: "Venues across Llangollen (Denbighshire)"
+    url: "https://llangollenfringe.co.uk/index.php/en/component/eventbooking/main-events/festival-ticket-2025"
+    categories: "North Wales,Denbighshire,Arts,Music,Comedy"
+    description: "Nine days of music, comedy, workshops and arts across the town."
+
+  - summary: "Anglesey County Show"
+    start: "2025-08-12"
+    end: "2025-08-13"
+    location: "Mona Showground, Anglesey"
+    url: "https://www.angleseyshow.org.uk/"
+    categories: "North Wales,Anglesey,Agricultural"
+    description: "Two-day agricultural showcase with livestock, food, crafts and ring displays."
+
+  - summary: "National Eisteddfod of Wales — Wrexham"
+    start: "2025-08-02"
+    end: "2025-08-09"
+    location: "The Maes, Is-y-Coed (Wrexham County Borough)"
+    url: "https://eisteddfod.wales/festival/2025"
+    categories: "North Wales,Wrexham,Culture,Music,Language"
+    description: "Europe’s largest travelling cultural festival with competitions and concerts."
+
+  - summary: "Llandudno Christmas Fayre"
+    start: "2025-11-13"
+    end: "2025-11-16"
+    location: "Llandudno town centre, Conwy"
+    url: "https://www.llandudnochristmasfayre.co.uk/"
+    categories: "North Wales,Conwy,Christmas,Market"
+    description: "Festive stalls and entertainment in the heart of Llandudno."
+
+  - summary: "Conwy Half Marathon"
+    start: "2025-11-16"
+    end: "2025-11-16"
+    location: "Conwy Quay, Conwy"
+    url: "https://www.runwales.com/e/conwy-half-marathon-8639"
+    categories: "North Wales,Conwy,Sport,Run"
+    description: "Scenic road half marathon around Conwy, Deganwy and Llandudno."
+
+  - summary: "Llandudno Fireworks Display"
+    start: "2025-11-07"
+    end: "2025-11-07"
+    location: "North Shore beach & promenade, Llandudno (Conwy)"
+    url: "https://www.llandudno.gov.uk/en/events/fireworks"
+    categories: "North Wales,Conwy,Fireworks,Free"
+    description: "Town fireworks at 18:30 (backup date published if weather disrupts)."
+
+  - summary: "Llangollen International Musical Eisteddfod — Core Week"
+    start: "2026-07-07"
+    end: "2026-07-12"
+    location: "Llangollen, Denbighshire"
+    url: "https://international-eisteddfod.co.uk/whats-on/eisteddfod-week/"
+    categories: "North Wales,Denbighshire,Music"
+    description: "International competitions and evening concerts across Eisteddfod week."
+
