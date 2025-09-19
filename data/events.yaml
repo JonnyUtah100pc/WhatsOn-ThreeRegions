@@ -1,25 +1,234 @@
+# data/events.yaml
 events:
-  # --- Replace these EXAMPLES with real events ---
-  - summary: EXAMPLE — Shrewsbury event (replace me)
-    start: 2025-10-01
-    end: 2025-10-01
-    location: Shrewsbury, Shropshire
-    url: https://example.com/shrewsbury
-    categories: Shropshire,Shrewsbury
-    description: Replace this with a real event.
+  # ——— SHROPSHIRE (2025) ———
+  - uid: shrewsbury-folk-festival-2025@whatson.jonnyutah100pc
+    summary: Shrewsbury Folk Festival
+    start_date: 2025-08-22
+    end_date: 2025-08-25
+    location: West Mid Showground, Shrewsbury
+    url: https://shrewsburyfolkfestival.co.uk/booktickets/
+    description: Family-friendly folk, Americana & world music across four days over the August Bank Holiday.
+    categories: [Shropshire, Shrewsbury, Music, Festival]
+    all_day: true
 
-  - summary: EXAMPLE — Chester event (replace me)
-    start: 2025-10-15
-    end: 2025-10-15
-    location: Chester, Cheshire
-    url: https://example.com/chester
-    categories: Cheshire,Chester
-    description: Replace this with a real event.
+  - uid: shrewsbury-steam-rally-2025@whatson.jonnyutah100pc
+    summary: Shrewsbury Steam Rally
+    start_date: 2025-08-24
+    end_date: 2025-08-25
+    location: Onslow Park, Shrewsbury
+    url: https://www.shrewsburysteamrally.co.uk/
+    description: Traction engines, vintage vehicles, working field and arena displays on Bank Holiday Sunday & Monday.
+    categories: [Shropshire, Shrewsbury, Heritage, Family]
+    all_day: true
 
-  - summary: EXAMPLE — Llangollen event (replace me)
-    start: 2025-11-05
-    end: 2025-11-05
-    location: Llangollen, North Wales
-    url: https://example.com/llangollen
-    categories: North Wales,Denbighshire
-    description: Replace this with a real event.
+  - uid: ludlow-food-festival-2025@whatson.jonnyutah100pc
+    summary: Ludlow Food & Drink Festival
+    start_date: 2025-09-12
+    end_date: 2025-09-14
+    location: Ludlow Castle, Ludlow
+    url: https://www.ludlowfoodfestival.co.uk/
+    description: One of the UK’s original food festivals, showcasing producers from the Marches with demos and tastings.
+    categories: [Shropshire, Ludlow, Food & Drink, Festival]
+    all_day: true
+
+  - uid: shropshire-oktoberfest-2025@whatson.jonnyutah100pc
+    summary: Shropshire Oktoberfest
+    start_date: 2025-10-03
+    end_date: 2025-10-04
+    location: The Quarry, Shrewsbury
+    url: https://www.shropshireoktoberfest.co.uk/
+    description: Huge beer tent, 150+ drinks, live music, street food and comedy.
+    categories: [Shropshire, Shrewsbury, Food & Drink, Music]
+    all_day: true
+
+  - uid: shrewsbury-half-marathon-2025@whatson.jonnyutah100pc
+    summary: Shrewsbury Half Marathon & Metric Half
+    start_date: 2025-09-28
+    end_date: 2025-09-28
+    location: West Mid Showground, Shrewsbury
+    url: https://originalshrewsbury.co.uk/events/shrewsbury-half-marathon-2
+    description: Town-centre closed-roads half marathon (08:30 start) plus Metric Half (08:55).
+    categories: [Shropshire, Shrewsbury, Sport, Running]
+    all_day: false
+    start_time_local: "08:30"
+    end_time_local: "13:00"
+
+  - uid: oswestry-10k-2025@whatson.jonnyutah100pc
+    summary: Oswestry 10K
+    start_date: 2025-10-12
+    end_date: 2025-10-12
+    location: Oswestry Town Centre
+    url: https://www.adrenalinesportingevents.co.uk/oswestry-10k-run-running-event/
+    description: Popular closed-roads 10K looping through Oswestry’s streets; 09:00 start.
+    categories: [Shropshire, Oswestry, Sport, Running]
+    all_day: false
+    start_time_local: "09:00"
+    end_time_local: "12:00"
+
+  - uid: ludlow-winter-festival-2025@whatson.jonnyutah100pc
+    summary: Ludlow Winter Festival
+    start_date: 2025-11-28
+    end_date: 2025-11-30
+    location: Ludlow town centre & Castle
+    url: https://www.ludlow.gov.uk/visit-ludlow/festivals
+    description: Town-wide festive weekend with music, trails and the Christmas lights switch-on.
+    categories: [Shropshire, Ludlow, Christmas, Family]
+    all_day: true
+
+  - uid: theatre-severn-dick-whittington-2025@whatson.jonnyutah100pc
+    summary: Panto — Dick Whittington (Theatre Severn)
+    start_date: 2025-11-28
+    end_date: 2026-01-04
+    location: Theatre Severn, Shrewsbury
+    url: https://www.theatresevern.co.uk/shows/whatson/dick-whittington
+    description: Theatre Severn’s 2025–26 family pantomime season.
+    categories: [Shropshire, Shrewsbury, Theatre, Christmas]
+    all_day: true
+
+  # ——— CHESHIRE (2025) ———
+  - uid: bolesworth-international-2025@whatson.jonnyutah100pc
+    summary: Bolesworth International Equestrian Summer Festival
+    start_date: 2025-06-27
+    end_date: 2025-07-06
+    location: Bolesworth Estate, Tattenhall
+    url: https://bolesworth.com/
+    description: Multi-day showjumping festival with family entertainment and shopping village.
+    categories: [Cheshire, Equestrian, Family, Festival]
+    all_day: true
+
+  - uid: chester-christmas-market-2025@whatson.jonnyutah100pc
+    summary: Chester Christmas Market
+    start_date: 2025-11-19
+    end_date: 2025-12-22
+    location: Town Hall Square, Chester
+    url: https://visitcheshire.com/events/chester-christmas-market
+    description: 70+ wooden chalets with festive food, drink and gifts beside the Cathedral.
+    categories: [Cheshire, Chester, Christmas, Market]
+    all_day: true
+
+  - uid: chester-zoo-lanterns-and-light-2025@whatson.jonnyutah100pc
+    summary: Lanterns and Light at Chester Zoo
+    start_date: 2025-11-14
+    end_date: 2026-01-03
+    location: Chester Zoo, Chester
+    url: https://shop.chesterzoo.org/events/lanterns-and-light-2025
+    description: After-dark illuminated trail on selected evenings (book timed entry).
+    categories: [Cheshire, Chester, Christmas, Light Trail]
+    all_day: true
+
+  - uid: tatton-park-yuletide-2025@whatson.jonnyutah100pc
+    summary: Tatton Park — Yuletide: A Glittering Winter Garden
+    start_date: 2025-11-15
+    end_date: 2025-12-23
+    location: Tatton Park, Knutsford
+    url: https://www.tattonpark.org.uk/events_at_tatton_park/christmas_at_tatton_park/christmas-at-tatton-park.aspx
+    description: Outdoor festive trail and experiences on selected dates.
+    categories: [Cheshire, Knutsford, Christmas, Light Trail]
+    all_day: true
+
+  - uid: tatton-park-christmas-mansion-2025@whatson.jonnyutah100pc
+    summary: Tatton Park — The Christmas Mansion
+    start_date: 2025-11-22
+    end_date: 2025-12-31
+    location: Tatton Park, Knutsford
+    url: https://www.tattonpark.org.uk/events_at_tatton_park/event-listings/2025/november/the-christmas-mansion.aspx
+    description: Explore Tatton’s Mansion dressed for Christmas (selected dates).
+    categories: [Cheshire, Knutsford, Christmas, Heritage]
+    all_day: true
+
+  # ——— NORTH WALES (2025) ———
+  - uid: llangollen-eisteddfod-2025@whatson.jonnyutah100pc
+    summary: Llangollen International Musical Eisteddfod
+    start_date: 2025-07-08
+    end_date: 2025-07-13
+    location: Royal International Pavilion, Llangollen
+    url: https://international-eisteddfod.co.uk/countdown-begins-3-weeks-to-go-until-llangollen-international-eisteddfod-2025/
+    description: Iconic week of competitions and evening concerts celebrating music and dance from around the world.
+    categories: [North Wales, Denbighshire, Music, Festival]
+    all_day: true
+
+  - uid: conwy-half-marathon-2025@whatson.jonnyutah100pc
+    summary: Conwy Half Marathon
+    start_date: 2025-11-16
+    end_date: 2025-11-16
+    location: Conwy Quay, Conwy
+    url: https://www.runwales.com/e/conwy-half-marathon-8639
+    description: Scenic coastal half marathon (09:30 start).
+    categories: [North Wales, Conwy, Sport, Running]
+    all_day: false
+    start_time_local: "09:30"
+    end_time_local: "14:30"
+
+  - uid: llandudno-christmas-parade-2025@whatson.jonnyutah100pc
+    summary: Llandudno Christmas Parade
+    start_date: 2025-12-06
+    end_date: 2025-12-06
+    location: Vaughan Street & Mostyn Street, Llandudno
+    url: https://www.visitconwy.org.uk/whats-on/llandudno-christmas-parade-2025-p501571
+    description: Lanterns, bands and Father Christmas in the resort’s big festive parade.
+    categories: [North Wales, Llandudno, Christmas, Parade]
+    all_day: false
+    start_time_local: "16:00"
+    end_time_local: "17:00"
+
+  # ——— 2026 CONFIRMED DATES ———
+  - uid: loopfest-2026@whatson.jonnyutah100pc
+    summary: LOOPFEST (Shrewsbury) — Multi-venue Music Festival
+    start_date: 2026-05-01
+    end_date: 2026-05-03
+    location: Multiple venues, Shrewsbury
+    url: https://loopfest.co.uk/info/dates-times/
+    description: Three-day multi-venue festival with a programme of fringe events.
+    categories: [Shropshire, Shrewsbury, Music, Festival]
+    all_day: true
+
+  - uid: ludlow-spring-festival-2026@whatson.jonnyutah100pc
+    summary: Ludlow Spring Festival
+    start_date: 2026-05-08
+    end_date: 2026-05-10
+    location: Ludlow Castle, Ludlow
+    url: https://www.ludlowspringfestival.co.uk/
+    description: Real ale, food & drink, classic vehicles and live music across the castle.
+    categories: [Shropshire, Ludlow, Food & Drink, Festival]
+    all_day: true
+
+  - uid: ludlow-magnalonga-2026@whatson.jonnyutah100pc
+    summary: Ludlow Magnalonga — Food Walk
+    start_date: 2026-08-09
+    end_date: 2026-08-09
+    location: Ludlow & surrounding countryside
+    url: https://www.ludlowfoodfestival.co.uk/
+    description: Scenic countryside ramble with food and drink stops.
+    categories: [Shropshire, Ludlow, Food & Drink, Walk]
+    all_day: true
+
+  - uid: shrewsbury-folk-festival-2026@whatson.jonnyutah100pc
+    summary: Shrewsbury Folk Festival
+    start_date: 2026-08-28
+    end_date: 2026-08-31
+    location: West Mid Showground, Shrewsbury
+    url: https://shrewsburyfolkfestival.co.uk/about/about-the-festival/
+    description: August Bank Holiday weekend edition of the flagship folk festival.
+    categories: [Shropshire, Shrewsbury, Music, Festival]
+    all_day: true
+
+  - uid: llangollen-eisteddfod-2026@whatson.jonnyutah100pc
+    summary: Llangollen International Musical Eisteddfod
+    start_date: 2026-07-07
+    end_date: 2026-07-12
+    location: Royal International Pavilion, Llangollen
+    url: https://international-eisteddfod.co.uk/whats-on/eisteddfod-week/
+    description: Core Eisteddfod week of competitions and evening concerts.
+    categories: [North Wales, Denbighshire, Music, Festival]
+    all_day: true
+
+  # ——— OPTIONAL: 2026 TBC/recurring (omit if your build requires confirmed dates) ———
+  # - uid: shrewsbury-steam-rally-2026@whatson.jonnyutah100pc
+  #   summary: Shrewsbury Steam Rally (TBC exact dates)
+  #   start_date: 2026-08-30
+  #   end_date: 2026-08-31
+  #   location: Onslow Park, Shrewsbury
+  #   url: https://www.steamheritage.co.uk/steam-rallies-and-events/event/shrewsbury-steam-rally-onslow-park
+  #   description: Indicative dates from listings; confirm via organiser before publishing.
+  #   categories: [Shropshire, Shrewsbury, Heritage, Family]
+  #   all_day: true
