@@ -45,7 +45,7 @@ def parse_ymd(s: str) -> date:
 
 # --- Tiny stanza: configurable date window via env ---
 DEFAULT_WINDOW_START = date(2025, 6, 1)
-DEFAULT_WINDOW_END   = date(2026, 12, 31)
+DEFAULT_WINDOW_END   = date(2027, 12, 31)
 
 WINDOW_OPEN = (os.getenv("ICS_WINDOW_OPEN","").lower() in ("1","true","yes","on"))
 WS = os.getenv("ICS_WINDOW_START")
