@@ -7,6 +7,7 @@ on:
       - scripts/**
       - data/**
       - .github/workflows/build-ics.yml
+      - requirements.txt
 
 permissions:
   contents: write
@@ -14,9 +15,21 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Show repo tree
+        run: |
+          echo "== repo root =="
+          ls -la
+          echo "== scripts =="
+          ls -la scripts || true
+          echo "== data =="
+          ls -la data || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,14 +38,50 @@ jobs:
 
       - name: Install deps
         run: |
+          set -x
+          python -V
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          pip freeze
+
+      - name: Validate YAML (warn only)
+        run: |
+          python - <<'PY'
+          import os, yaml, sys
+          for p in ("data/events.yaml",):
+              if not os.path.exists(p):
+                  print(f"[warn] missing: {p}")
+                  continue
+              try:
+                  yaml.safe_load(open(p, encoding="utf-8"))
+                  print(f"[ok] parsed: {p}")
+              except Exception as e:
+                  print(f"[warn] YAML parse issue in {p}: {e}")
+          PY
 
       - name: Build ICS
-        run: python scripts/build_ics.py
-
-      - name: Commit & push
         run: |
+          set -x
+          python scripts/build_ics.py
+
+      - name: Count events
+        run: |
+          if [ -f whatson-shropshire-cheshire-northwales.ics ]; then
+            echo "VEVENT count: $(grep -c '^BEGIN:VEVENT' whatson-shropshire-cheshire-northwales.ics || echo 0)"
+          else
+            echo "::error::ICS file not found at repo root."
+            exit 1
+          fi
+
+      - name: Upload ICS artifact (for debugging)
+        uses: actions/upload-artifact@v4
+        with:
+          name: whatson-ics
+          path: whatson-shropshire-cheshire-northwales.ics
+
+      - name: Commit & push (resilient)
+        run: |
+          set -e
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
           git add whatson-shropshire-cheshire-northwales.ics || true
@@ -41,4 +90,10 @@ jobs:
             exit 0
           fi
           git commit -m "auto: build ICS"
-          git push
+          if git push origin HEAD:main; then
+            exit 0
+          fi
+          echo "Push rejected; rebasing…"
+          git pull --rebase origin main || true
+          git push origin HEAD:main || git push --force-with-lease origin HEAD:main
+
