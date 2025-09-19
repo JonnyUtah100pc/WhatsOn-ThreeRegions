@@ -72,6 +72,22 @@ events:
     categories: "Shropshire,Oswestry,Family,Airshow"
     description: "Town-centre balloon festival with tethered displays (weather dependent)."
 
+  - summary: "Minsterley Show 2025 (150th Anniversary)"
+    start: "2025-08-16"
+    end: "2025-08-16"
+    location: "Manor Farm, Cruckton, SY5 8PW"
+    url: "https://minsterleyshow.org.uk/tc-events/minsterley-show-2025/"
+    categories: "Shropshire,Minsterley,Agricultural,Family"
+    description: "150th anniversary show at the new showground (official site)."
+
+  - summary: "Minsterley Show 2026"
+    start: "2026-08-15"
+    end: "2026-08-15"
+    location: "Manor Farm, Cruckton, SY5 8PW"
+    url: "https://www.facebook.com/officialminsterleyshow/"
+    categories: "Shropshire,Minsterley,Agricultural,Family"
+    description: "Next year’s show — date announced by organisers."
+
   - summary: "LOOPFEST (Shrewsbury)"
     start: "2026-05-01"
     end: "2026-05-03"
@@ -193,14 +209,14 @@ events:
     categories: "Cheshire,Northwich,Garden,Family"
     description: "Annual garden festival — weekend dates confirmed."
 
-  # ——— Cheshire Races — Chester Racecourse fixtures (official 2025) ———
+  # ——— Cheshire Races — 2025 fixtures ———
   - summary: "Chester Races — Summer Social Weekend (Friday)"
     start: "2025-06-13"
     end: "2025-06-13"
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing"
-    description: "Summer Social Weekend — corporate Friday. Official 2025 fixtures PDF."
+    description: "Summer Social Weekend — Friday raceday (official fixtures PDF)."
 
   - summary: "Chester Races — Summer Social Weekend (Saturday)"
     start: "2025-06-14"
@@ -208,15 +224,15 @@ events:
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing"
-    description: "Summer Social Weekend — big Saturday crowd. Official 2025 fixtures PDF."
+    description: "Summer Social Weekend — Saturday raceday (official fixtures PDF)."
 
   - summary: "Chester Races — Summer Saturday"
     start: "2025-06-28"
     end: "2025-06-28"
     location: "Chester Racecourse, Chester"
-    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    url: "https://www.chester-races.com/whats-on/midsummer-meeting/"
     categories: "Cheshire,Chester,Racing"
-    description: "Quintessential summer raceday. Official 2025 fixtures PDF."
+    description: "Mid-season Saturday meeting (official event page)."
 
   - summary: "Chester Races — Summer Music Weekend (Friday)"
     start: "2025-07-11"
@@ -224,7 +240,7 @@ events:
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing,Music"
-    description: "HedKandi — Ibiza classics after racing. Official 2025 fixtures PDF."
+    description: "Racing plus music after racing (official fixtures PDF)."
 
   - summary: "Chester Races — Summer Music Weekend (Saturday)"
     start: "2025-07-12"
@@ -232,15 +248,15 @@ events:
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing,Music"
-    description: "Oasiz tribute after racing. Official 2025 fixtures PDF."
+    description: "Saturday raceday with after-racing music (official fixtures PDF)."
 
   - summary: "Chester Races — Midsummer Meeting"
     start: "2025-07-26"
     end: "2025-07-26"
     location: "Chester Racecourse, Chester"
-    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    url: "https://www.chester-races.com/whats-on/midsummer-meeting/"
     categories: "Cheshire,Chester,Racing"
-    description: "Summer season in full swing. Official 2025 fixtures PDF."
+    description: "Midsummer Saturday meeting (official event page)."
 
   - summary: "Chester Races — Family Fun Day"
     start: "2025-08-03"
@@ -248,7 +264,7 @@ events:
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing,Family"
-    description: "Family-focused raceday with activities. Official 2025 fixtures PDF."
+    description: "Family-focused raceday with activities (official fixtures PDF)."
 
   - summary: "Chester Races — Ladies Day"
     start: "2025-08-30"
@@ -256,40 +272,40 @@ events:
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing"
-    description: "Fashion, music and racing — Ladies Day. Official 2025 fixtures PDF."
+    description: "Ladies Day at the Roodee (official fixtures PDF)."
 
-  - summary: "Chester Races — The Autumn Festival (Friday)"
+  - summary: "Chester Races — Autumn Festival (Friday)"
     start: "2025-09-12"
     end: "2025-09-12"
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing"
-    description: "Autumn Festival Friday raceday. Official 2025 fixtures PDF."
+    description: "Autumn Festival — Friday raceday (official fixtures PDF)."
 
-  - summary: "Chester Races — The Autumn Festival (Saturday)"
+  - summary: "Chester Races — Autumn Festival (Saturday)"
     start: "2025-09-13"
     end: "2025-09-13"
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
     categories: "Cheshire,Chester,Racing"
-    description: "Premier Raceday — Autumn Festival Saturday. Official 2025 fixtures PDF."
+    description: "Autumn Festival — Saturday raceday (official fixtures PDF)."
 
   - summary: "Chester Races — Oktoberfest Season Finale"
     start: "2025-09-20"
     end: "2025-09-20"
     location: "Chester Racecourse, Chester"
-    url: "https://www.chester-races.com/wp-content/uploads/2025/07/CTR-Fixtures-Commercial-Opportunities-2025.pdf"
+    url: "https://www.chester-races.com/whats-on/oktoberfest-season-finale/"
     categories: "Cheshire,Chester,Racing,Beer"
-    description: "Bavarian-themed season closer. Official 2025 fixtures PDF."
+    description: "Bavarian-themed season closer (official event page)."
 
-  # ——— Boodles May Festival 2026 (official) ———
+  # ——— Boodles May Festival 2026 ———
   - summary: "Boodles May Festival 2026 — Trials Day"
     start: "2026-05-06"
     end: "2026-05-06"
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/boodles-may-festival-2026/"
     categories: "Cheshire,Chester,Racing"
-    description: "Day 1 — Cheshire Oaks & Chester Vase trials."
+    description: "Day 1 — Cheshire Oaks & Chester Vase trials (official)."
 
   - summary: "Boodles May Festival 2026 — Ladies Day"
     start: "2026-05-07"
@@ -297,7 +313,7 @@ events:
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/boodles-may-festival-2026/"
     categories: "Cheshire,Chester,Racing"
-    description: "Day 2 — Ladies Day."
+    description: "Day 2 — Ladies Day (official)."
 
   - summary: "Boodles May Festival 2026 — Chester Cup Day"
     start: "2026-05-08"
@@ -305,9 +321,9 @@ events:
     location: "Chester Racecourse, Chester"
     url: "https://www.chester-races.com/boodles-may-festival-2026/"
     categories: "Cheshire,Chester,Racing"
-    description: "Day 3 — Ladbrokes Chester Cup."
+    description: "Day 3 — Ladbrokes Chester Cup (official)."
 
-  # ——— Arley Hall Christmas 2025 (official) ———
+  # ——— Arley Hall Christmas 2025 ———
   - summary: "Arley Hall Christmas — Fantasy Florals in the Hall"
     start: "2025-12-05"
     end: "2025-12-10"
@@ -388,4 +404,3 @@ events:
     url: "https://international-eisteddfod.co.uk/whats-on/eisteddfod-week/"
     categories: "North Wales,Denbighshire,Music"
     description: "International competitions and evening concerts across Eisteddfod week."
-
