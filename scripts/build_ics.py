@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 # Build whatson-shropshire-cheshire-northwales.ics from data/events.yaml
-# Safe defaults:
-# - Never crashes on absent/invalid YAML (logs a warning, produces 0 events)
 # - All-day events with exclusive DTEND (RFC 5545)
 # - Stable UID per (summary + year)
 # - Window filter: 2025-06-01 .. 2026-12-31
 # - Sorted by start date
+# - Robust logging; won’t crash on YAML issues
 
 import os, re, unicodedata, sys
 from datetime import datetime, timedelta, date
@@ -34,6 +33,7 @@ def slugify(text: str) -> str:
     return re.sub(r"-{2,}","-",t) or "event"
 
 def esc(s: str) -> str:
+    # RFC5545 text escaping
     return str(s).replace("\\","\\\\").replace(",","\\,").replace(";","\\;").replace("\n","\\n")
 
 def load_events(path: str) -> List[Dict]:
@@ -86,6 +86,11 @@ def build_vevent(e: Dict) -> str:
     dtend = (e_date + timedelta(days=1)).strftime("%Y%m%d")
     uid = f"{slugify(summary)}-{s.year}@whatson.local"
 
+    # Build DESCRIPTION without backslashes inside an f-string expression
+    desc_line = "DESCRIPTION:" + esc(desc)
+    if url:
+        desc_line += "\\nMore: " + url
+
     lines = [
         "BEGIN:VEVENT",
         f"UID:{uid}",
@@ -94,7 +99,7 @@ def build_vevent(e: Dict) -> str:
         f"DTEND;VALUE=DATE:{dtend}",
         f"SUMMARY:{esc(summary)}",
         f"LOCATION:{esc(location)}",
-        f"DESCRIPTION:{esc(desc)}{('\\nMore: ' + url) if url else ''}",
+        desc_line,
         f"URL:{url}" if url else "URL:",
         f"CATEGORIES:{esc(cats)}" if cats else "CATEGORIES:",
         "STATUS:CONFIRMED",
@@ -106,7 +111,6 @@ def build_vevent(e: Dict) -> str:
 def main() -> int:
     evs = load_events(IN_YAML)
 
-    # normalize + sort
     cleaned = []
     for e in evs:
         try:
@@ -153,7 +157,7 @@ if __name__ == "__main__":
     try:
         raise SystemExit(main())
     except Exception as ex:
-        # Never mask the error — print it, but still exit non-zero so GH logs it
         print(f"::error::Unexpected error in build: {ex}")
         sys.exit(1)
+
 
