@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 # Build whatson-shropshire-cheshire-northwales.ics from data/events.yaml
-# Safe for Apple Calendar:
-# - Never writes empty URL/CATEGORIES/DESCRIPTION properties
+# Apple-safe + configurable window:
+# - Never emits empty URL/CATEGORIES/DESCRIPTION
 # - All-day events use exclusive DTEND (RFC 5545)
 # - CRLF line endings
 # - Stable UIDs (summary+year)
-# - Window: 2025-06-01 .. 2026-12-31
+# - Date window controlled by env:
+#     ICS_WINDOW_OPEN=true            -> include all events (no filtering)
+#     ICS_WINDOW_START=YYYY-MM-DD     -> window start (when OPEN is false)
+#     ICS_WINDOW_END=YYYY-MM-DD       -> window end   (when OPEN is false)
 
 import os, re, unicodedata, sys
 from datetime import datetime, timedelta, date
@@ -17,6 +20,7 @@ except Exception as ex:
     print(f"::error::PyYAML not installed: {ex}")
     sys.exit(1)
 
+# --- Paths / constants ---
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 IN_YAML   = os.path.join(REPO_ROOT, "data", "events.yaml")
 OUT_ICS   = os.path.join(REPO_ROOT, "whatson-shropshire-cheshire-northwales.ics")
@@ -24,11 +28,9 @@ OUT_ICS   = os.path.join(REPO_ROOT, "whatson-shropshire-cheshire-northwales.ics"
 CAL_NAME = "What’s On — Shropshire • Cheshire • North Wales"
 PRODID   = "-//WhatsOn Builder//EN"
 DTSTAMP  = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+EOL      = "\r\n"  # Apple-friendly line endings
 
-WINDOW_START = date(2025, 6, 1)
-WINDOW_END   = date(2026, 12, 31)
-EOL = "\r\n"  # Apple-friendly line endings
-
+# --- Helpers ---
 def slugify(text: str) -> str:
     t = unicodedata.normalize("NFKD", text).encode("ascii","ignore").decode("ascii")
     t = re.sub(r"[^a-zA-Z0-9]+","-",t).strip("-").lower()
@@ -38,6 +40,27 @@ def esc(s: str) -> str:
     # RFC5545 text escaping
     return str(s).replace("\\","\\\\").replace(",","\\,").replace(";","\\;").replace("\n","\\n")
 
+def parse_ymd(s: str) -> date:
+    return datetime.strptime(s, "%Y-%m-%d").date()
+
+# --- Tiny stanza: configurable date window via env ---
+DEFAULT_WINDOW_START = date(2025, 6, 1)
+DEFAULT_WINDOW_END   = date(2026, 12, 31)
+
+WINDOW_OPEN = (os.getenv("ICS_WINDOW_OPEN","").lower() in ("1","true","yes","on"))
+WS = os.getenv("ICS_WINDOW_START")
+WE = os.getenv("ICS_WINDOW_END")
+
+if not WINDOW_OPEN:
+    WINDOW_START = parse_ymd(WS) if WS else DEFAULT_WINDOW_START
+    WINDOW_END   = parse_ymd(WE) if WE else DEFAULT_WINDOW_END
+
+def in_window(s: date, e: date) -> bool:
+    if WINDOW_OPEN:
+        return True
+    return not (e < WINDOW_START or s > WINDOW_END)
+
+# --- I/O ---
 def load_events(path: str) -> List[Dict]:
     if not os.path.exists(path):
         print(f"[warn] missing file: {path} (0 events)")
@@ -54,12 +77,7 @@ def load_events(path: str) -> List[Dict]:
         print(f"[warn] YAML parse error in {path}: {ex}")
         return []
 
-def parse_ymd(s: str) -> date:
-    return datetime.strptime(s, "%Y-%m-%d").date()
-
-def in_window(s: date, e: date) -> bool:
-    return not (e < WINDOW_START or s > WINDOW_END)
-
+# --- VEVENT builder ---
 def build_vevent(e: Dict) -> str:
     try:
         summary   = e["summary"]
@@ -80,9 +98,10 @@ def build_vevent(e: Dict) -> str:
     except Exception as ex:
         print(f"[warn] bad date(s) in '{summary}': {ex}; skipping")
         return ""
-    if e_date < s: e_date = s
-    if not in_window(s, e_date):  # outside window
-        return ""
+    if e_date < s:
+        e_date = s
+    if not in_window(s, e_date):
+        return ""  # outside window
 
     dtend = (e_date + timedelta(days=1)).strftime("%Y%m%d")
     uid = f"{slugify(summary)}-{s.year}@whatson.local"
@@ -116,6 +135,7 @@ def build_vevent(e: Dict) -> str:
     lines.append("END:VEVENT")
     return EOL.join(lines)
 
+# --- Main ---
 def main() -> int:
     evs = load_events(IN_YAML)
 
@@ -168,4 +188,3 @@ if __name__ == "__main__":
     except Exception as ex:
         print(f"::error::Unexpected error in build: {ex}")
         sys.exit(1)
-
