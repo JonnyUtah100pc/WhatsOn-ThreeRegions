@@ -2,6 +2,8 @@ name: Build ICS (What’s On)
 
 on:
   workflow_dispatch: {}
+  schedule:
+    - cron: "0 6 * * 1"   # weekly, Mondays 06:00 UTC
   push:
     paths:
       - scripts/**
@@ -12,39 +14,34 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: build-ics
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      ICS_WINDOW_OPEN: "true"   # include all events; remove if you want a date window
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Show repo tree
-        run: |
-          echo "== repo root ==" && ls -la
-          echo "== scripts ==" && ls -la scripts || true
-          echo "== data ==" && ls -la data || true
+        with: { fetch-depth: 0 }
 
       - name: Set up Python
         uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+        with: { python-version: '3.11' }
 
       - name: Install deps
         run: |
-          set -x
-          python -V
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          pip freeze
 
       - name: Validate YAML (warn only)
         run: |
           python - <<'PY'
-          import os, yaml
+          import yaml, os
           p = "data/events.yaml"
           if not os.path.exists(p):
               print(f"[warn] missing: {p}")
@@ -57,52 +54,29 @@ jobs:
           PY
 
       - name: Build ICS
-        run: |
-          set -x
-          python scripts/build_ics.py
+        run: python scripts/build_ics.py
 
       - name: Count events (fail if zero)
         run: |
-          if [ ! -f whatson-shropshire-cheshire-northwales.ics ]; then
-            echo "::error::ICS file not found at repo root."
-            exit 1
-          fi
+          test -f whatson-shropshire-cheshire-northwales.ics || { echo "::error::ICS not found"; exit 1; }
           COUNT=$(grep -c '^BEGIN:VEVENT' whatson-shropshire-cheshire-northwales.ics || echo 0)
-          echo "VEVENT count: ${COUNT}"
-          if [ "$COUNT" -eq 0 ]; then
-            echo "::error::ICS contains zero events."
-            exit 1
-          fi
+          echo "VEVENT count: $COUNT"
+          [ "$COUNT" -gt 0 ] || { echo "::error::ICS contains zero events"; exit 1; }
 
       - name: Sanity-check ICS (no empty props)
         run: |
-          # Fail if Apple-hostile empty properties exist
           if grep -nE '^(URL|CATEGORIES|DESCRIPTION):\s*$' whatson-shropshire-cheshire-northwales.ics; then
-            echo "::error::Found empty ICS properties (URL/CATEGORIES/DESCRIPTION). Fix build_ics.py."
-            exit 1
+            echo "::error::Found empty ICS properties"; exit 1
           fi
           echo "ICS basic sanity checks passed."
 
-      - name: Upload ICS artifact (for debugging)
-        uses: actions/upload-artifact@v4
-        with:
-          name: whatson-ics
-          path: whatson-shropshire-cheshire-northwales.ics
-
       - name: Commit & push (resilient)
         run: |
-          set -e
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
           git add whatson-shropshire-cheshire-northwales.ics || true
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
+            echo "No changes to commit."; exit 0
           fi
-          git commit -m "auto: build ICS"
-          if git push origin HEAD:main; then
-            exit 0
-          fi
-          echo "Push rejected; rebasing…"
-          git pull --rebase origin main || true
-          git push origin HEAD:main || git push --force-with-lease origin HEAD:main
+          git commit -m "auto: weekly build ICS"
+          git push || (git pull --rebase && git push || git push --force-with-lease)
