@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:spectacular-shropshire-art-exhibition-10-00-1st-may-2025-21st-june-2025-at-visual-art-network-gallery-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250622
 SUMMARY:Spectacular Shropshire Art Exhibition 10:00 1st May 2025 – 21st June 2025 at  Visual Art Network Gallery Shrewsbury
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:may-half-term-at-go-ape-wyre-10-00-26th-may-2025-1st-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250526
 DTEND;VALUE=DATE:20250602
 SUMMARY:May Half Term at Go Ape Wyre 10:00 26th May 2025 – 1st June 2025 at
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dog-show-country-festival-2025-k9-anytime-x-apley-farm-shop-10-00-1st-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250601
 DTEND;VALUE=DATE:20250602
 SUMMARY:Dog Show & Country Festival 2025 | K9 Anytime X Apley Farm Shop 10:00 1st June 2025 at
@@ -46,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:porthywaen-silver-band-cae-glas-park-oswestry-02-00-1st-june-2025-at-cae-glas-park-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250601
 DTEND;VALUE=DATE:20250602
 SUMMARY:Porthywaen Silver Band - Cae Glas Park\, Oswestry. 02:00 1st June 2025 at  Cae Glas Park Oswestry
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:richard-durrant-the-guitar-whisperer-14-00-1st-june-2025-at-sparc-theatre-bishop-s-castles-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250601
 DTEND;VALUE=DATE:20250602
 SUMMARY:Richard Durrant: The Guitar Whisperer 14:00 1st June 2025 at  SpArC Theatre Bishop's Castles
@@ -72,7 +72,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-2nd-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250603
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 2nd June 2025 at  The Artshack Shrewsbury
@@ -85,7 +85,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-3rd-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250603
 DTEND;VALUE=DATE:20250604
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 3rd June 2025 at  The Artshack Shrewsbury
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-4th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250605
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 4th June 2025 at  The Artshack Shrewsbury
@@ -111,7 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:knutsford-music-festival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250609
 SUMMARY:Knutsford Music Festival
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bella-hardy-uk-tour-19-30-6th-june-2025-at-theatre-severn-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250607
 SUMMARY:Bella Hardy UK Tour 19:30 6th June 2025 at  Theatre Severn Shrewsbury
@@ -137,7 +137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-6th-june-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250607
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 6th June 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -150,7 +150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:room-19-00-6th-june-2025-at-linton-village-hall-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250607
 SUMMARY:Room 19:00 6th June 2025 at  Linton Village Hall
@@ -162,7 +162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:british-wild-food-festival-10-00-7th-june-2025-8th-june-2025-at-hawkstone-park-follies-weston-under-redcastle-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250609
 SUMMARY:British Wild Food Festival 10:00 7th June 2025 – 8th June 2025 at  Hawkstone Park Follies Weston-under-Redcastle
@@ -175,7 +175,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:oswestry-antique-collectors-fair-08-00-7th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250608
 SUMMARY:Oswestry Antique & Collectors Fair 08:00 7th June 2025 at
@@ -188,7 +188,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pride-parade-cae-glas-park-all-day-7th-june-2025-at-cae-glas-park-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250608
 SUMMARY:Pride Parade - Cae Glas Park All Day 7th June 2025 at  Cae Glas Park Oswestry
@@ -201,7 +201,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:room-19-30-7th-june-2025-at-the-edge-arts-centre-much-wenlock-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250608
 SUMMARY:Room 19:30 7th June 2025 at  The Edge Arts Centre Much Wenlock
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-festival-of-model-railways-10-00-7th-june-2025-at-church-of-st-mary-the-virgin-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250608
 SUMMARY:SHREWSBURY FESTIVAL OF MODEL RAILWAYS 10:00 7th June 2025 at  Church of St Mary the Virgin Shrewsbury
@@ -227,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:thats-so-90s-19-30-7th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250608
 SUMMARY:That’s So 90s! 19:30 7th June 2025 at
@@ -239,7 +239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-broseley-monthly-artisan-market-09-30-7th-june-2025-at-victoria-hall-broseley-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250608
 SUMMARY:The Broseley Monthly Artisan Market 09:30 7th June 2025 at  Victoria Hall Broseley
@@ -251,7 +251,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:community-games-cae-glas-park-oswestry-all-day-8th-june-2025-at-cae-glas-park-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250608
 DTEND;VALUE=DATE:20250609
 SUMMARY:Community Games - Cae glas Park. Oswestry All Day 8th June 2025 at  Cae Glas Park Oswestry
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:severn-hospice-open-gardens-10-00-8th-june-2025-at-severn-hospice-telford-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250608
 DTEND;VALUE=DATE:20250609
 SUMMARY:Severn Hospice Open Gardens 10:00 8th June 2025 at  Severn Hospice Telford
@@ -277,7 +277,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-9th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250609
 DTEND;VALUE=DATE:20250610
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 9th June 2025 at  The Artshack Shrewsbury
@@ -290,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-10th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 10th June 2025 at  The Artshack Shrewsbury
@@ -303,7 +303,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-11th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 11th June 2025 at  The Artshack Shrewsbury
@@ -316,7 +316,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:crispian-steele-perkins-19-30-11th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Crispian Steele-Perkins 19:30 11th June 2025 at
@@ -328,7 +328,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:english-haydn-festival-14-30-11th-june-2025-15th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250616
 SUMMARY:English Haydn Festival 14:30 11th June 2025 – 15th June 2025 at
@@ -341,7 +341,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:goldstone-gardens-open-for-ngs-11-00-11th-june-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Goldstone Gardens Open for NGS 11:00 11th June 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -354,7 +354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:severn-hospice-corporate-golf-day-09-30-11th-june-2025-at-hawkstone-park-golf-club-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Severn Hospice Corporate Golf Day 09:30 11th June 2025 at  Hawkstone Park Golf Club Shrewsbury
@@ -367,7 +367,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-english-haydn-piano-trio-lunchtime-concert-12-30-11th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:The English Haydn Piano Trio: Lunchtime Concert 12:30 11th June 2025 at
@@ -379,7 +379,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-taste-of-midsummer-10-30-12th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250612
 DTEND;VALUE=DATE:20250613
 SUMMARY:A Taste of Midsummer 10:30 12th June 2025 at
@@ -391,7 +391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-consone-quartet-12-30-12th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250612
 DTEND;VALUE=DATE:20250613
 SUMMARY:The Consone Quartet 12:30 12th June 2025 at
@@ -403,7 +403,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-revolutionary-wind-machine-12-30-12th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250612
 DTEND;VALUE=DATE:20250613
 SUMMARY:The Revolutionary Wind Machine 12:30 12th June 2025 at
@@ -415,7 +415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-social-weekend-friday-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250613
 DTEND;VALUE=DATE:20250614
 SUMMARY:Chester Races — Summer Social Weekend (Friday)
@@ -428,7 +428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-13th-june-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250613
 DTEND;VALUE=DATE:20250614
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 13th June 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -441,7 +441,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-consone-quartet-the-haydn-wind-band-12-30-13th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250613
 DTEND;VALUE=DATE:20250614
 SUMMARY:The Consone Quartet & The Haydn Wind Band 12:30 13th June 2025 at
@@ -453,7 +453,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-english-haydn-orchestra-performing-music-by-j-c-bach-joseph-haydn-19-30-13th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250613
 DTEND;VALUE=DATE:20250614
 SUMMARY:The English Haydn Orchestra performing music by J C Bach & Joseph Haydn 19:30 13th June 2025 at
@@ -465,7 +465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-social-weekend-saturday-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
 SUMMARY:Chester Races — Summer Social Weekend (Saturday)
@@ -478,7 +478,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:open-day-11-00-14th-june-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
 SUMMARY:Open Day 11:00 14th June 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -491,7 +491,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:rutter-gloria-a-celebration-of-english-choral-and-instrumental-works-19-00-14th-june-2025-at-holy-trinity-church-much-wenlock-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
 SUMMARY:Rutter 'Gloria' - a celebration of English choral and instrumental works 19:00 14th June 2025 at  Holy Trinity Church Much Wenlock
@@ -504,7 +504,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-cantata-choir-summer-concert-19-30-14th-june-2025-at-st-alkmund-s-church-shrewsbury-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
 SUMMARY:Shrewsbury Cantata Choir -  Summer Concert 19:30 14th June 2025 at  St Alkmund's Church\, Shrewsbury Shrewsbury
@@ -517,7 +517,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-english-haydn-orchestra-performing-music-by-j-c-bach-joseph-haydn-12-30-14th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
 SUMMARY:The English Haydn Orchestra performing music by J C Bach & Joseph Haydn 12:30 14th June 2025 at
@@ -529,7 +529,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-zoo-that-comes-to-you-15-00-14th-june-2025-at-bridgnorth-library-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
 SUMMARY:The Zoo That Comes To You 15:00 14th June 2025 at  Bridgnorth Library Bridgnorth\,
@@ -541,7 +541,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:living-well-festival-10-00-15th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
 SUMMARY:Living Well Festival 10:00 15th June 2025 at
@@ -553,7 +553,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:musical-images-of-life-12-00-15th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
 SUMMARY:Musical Images of Life. 12:00 15th June 2025 at
@@ -565,7 +565,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:saxaphone-quartet-cae-glas-park-oswestry-02-00-15th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
 SUMMARY:Saxaphone Quartet - Cae Glas Park\, Oswestry 02:00 15th June 2025 at
@@ -578,7 +578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wicked-outdoor-cinema-experience-11-30-15th-june-2025-at-shrewsbury-college-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250615
 DTEND;VALUE=DATE:20250616
 SUMMARY:Wicked! Outdoor Cinema experience 11:30 15th June 2025 at  shrewsbury college shrewsbury
@@ -591,7 +591,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-16th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 16th June 2025 at  The Artshack Shrewsbury
@@ -604,7 +604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-midsummer-supper-in-tudor-times-19-30-17th-june-2025-at-wem-town-hall-wem-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
 SUMMARY:A Midsummer Supper in Tudor Times 19:30 17th June 2025 at  Wem Town Hall Wem
@@ -617,7 +617,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-17th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250617
 DTEND;VALUE=DATE:20250618
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 17th June 2025 at  The Artshack Shrewsbury
@@ -630,7 +630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-18th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250618
 DTEND;VALUE=DATE:20250619
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 18th June 2025 at  The Artshack Shrewsbury
@@ -643,7 +643,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:speed-dating-32-42-year-olds-in-shrewsbury-19-30-18th-june-2025-at-the-wroxeter-hotel-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250618
 DTEND;VALUE=DATE:20250619
 SUMMARY:Speed Dating (32-42 year olds) in Shrewsbury 19:30 18th June 2025 at  The Wroxeter Hotel Shrewsbury
@@ -656,7 +656,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:much-wenlock-festival-19th-june-2025-22nd-june-2025-at-church-green-much-wenlock-much-wenlock-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250619
 DTEND;VALUE=DATE:20250623
 SUMMARY:Much Wenlock Festival 19th June 2025 – 22nd June 2025 at  Church Green\, Much Wenlock Much Wenlock
@@ -668,7 +668,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-20th-june-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 20th June 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -681,7 +681,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-more-singers-summer-celebration-an-evening-of-british-songs-19-30-20th-june-2025-at-church-stretton-united-reformed-church-church-stretton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250620
 DTEND;VALUE=DATE:20250621
 SUMMARY:The More Singers Summer Celebration - An Evening of British Songs 19:30 20th June 2025 at  Church Stretton United Reformed Church Church Stretton
@@ -694,7 +694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cadmrc-model-railway-exhibition-10-00-21st-june-2025-at-ludlow-racecourse-pavillion-ludlow-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250621
 DTEND;VALUE=DATE:20250622
 SUMMARY:CADMRC Model Railway Exhibition 10:00 21st June 2025 at  Ludlow Racecourse Pavillion Ludlow
@@ -707,7 +707,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:severn-hospice-open-gardens-10-00-22nd-june-2025-at-severn-hospice-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250622
 DTEND;VALUE=DATE:20250623
 SUMMARY:Severn Hospice Open Gardens 10:00 22nd June 2025 at  Severn Hospice Shrewsbury
@@ -720,7 +720,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tatenhill-airbase-open-day-2025-10-00-22nd-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250622
 DTEND;VALUE=DATE:20250623
 SUMMARY:Tatenhill Airbase Open Day 2025 10:00 22nd June 2025 at
@@ -732,7 +732,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-23rd-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250623
 DTEND;VALUE=DATE:20250624
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 23rd June 2025 at  The Artshack Shrewsbury
@@ -745,7 +745,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-24th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250625
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 24th June 2025 at  The Artshack Shrewsbury
@@ -758,7 +758,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-new-open-exhibition-at-the-van-gallery-10-00-24th-june-2025-16th-august-2025-at-visual-art-network-gallery-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250624
 DTEND;VALUE=DATE:20250817
 SUMMARY:The new Open Exhibition at the VAN Gallery 10:00 24th June 2025 – 16th August 2025 at  Visual Art Network Gallery Shrewsbury
@@ -771,7 +771,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-25th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250625
 DTEND;VALUE=DATE:20250626
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 25th June 2025 at  The Artshack Shrewsbury
@@ -784,7 +784,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:iona-lane-shirefolk-tour-19-00-26th-june-2025-28th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250626
 DTEND;VALUE=DATE:20250629
 SUMMARY:Iona Lane ShireFolk Tour 19:00 26th June 2025 – 28th June 2025 at
@@ -796,7 +796,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-green-festival-10-00-26th-june-2025-at-ludlow-green-festival-ludlow-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250626
 DTEND;VALUE=DATE:20250627
 SUMMARY:Ludlow Green Festival 10:00 26th June 2025 at  Ludlow Green Festival Ludlow
@@ -809,7 +809,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bolesworth-international-equestrian-festival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250707
 SUMMARY:Bolesworth International Equestrian Festival
@@ -822,7 +822,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:counter-s-creek-19-30-27th-june-2025-at-escleyside-hall-herefordshire-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:Counter's Creek 19:30 27th June 2025 at  Escleyside Hall Herefordshire
@@ -834,7 +834,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-27th-june-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 27th June 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -847,7 +847,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pale-fire-music-presents-the-log-fuses-with-the-dan-williams-trio-19-30-27th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:Pale Fire Music presents The Log Fuses with The Dan Williams Trio 19:30 27th June 2025 at
@@ -859,7 +859,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:steampunk-at-the-workhouse-18-00-27th-june-2025-at-llanfyllin-workhouse-llanfyllin-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:Steampunk at the Workhouse 18:00 27th June 2025 at  Llanfyllin Workhouse Llanfyllin
@@ -872,7 +872,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stokesay-court-evening-house-tour-17-15-27th-june-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:Stokesay Court Evening House Tour 17:15 27th June 2025 at  Stokesay Court Craven Arms
@@ -885,7 +885,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arley-garden-festival-30th-anniversary-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250630
 SUMMARY:Arley Garden Festival (30th Anniversary)
@@ -898,7 +898,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-saturday-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250629
 SUMMARY:Chester Races — Summer Saturday
@@ -911,7 +911,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:counter-s-creek-19-30-28th-june-2025-at-the-venue-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250629
 SUMMARY:Counter's Creek 19:30 28th June 2025 at  The Venue\,
@@ -923,7 +923,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:zog-film-and-craft-activity-10-00-28th-june-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250628
 DTEND;VALUE=DATE:20250629
 SUMMARY:Zog Film and Craft Activity 10:00 28th June 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -936,7 +936,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:diddlebury-open-gardens-12-00-29th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250629
 DTEND;VALUE=DATE:20250630
 SUMMARY:Diddlebury Open Gardens 12:00 29th June 2025 at
@@ -949,7 +949,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stokesay-court-guided-house-tour-14-30-29th-june-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250629
 DTEND;VALUE=DATE:20250630
 SUMMARY:Stokesay Court Guided House Tour 14:30 29th June 2025 at  Stokesay Court Craven Arms
@@ -962,7 +962,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wild-about-westhope-summer-event-10-00-29th-june-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250629
 DTEND;VALUE=DATE:20250630
 SUMMARY:Wild about Westhope Summer Event 10:00 29th June 2025 at
@@ -975,7 +975,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-30th-june-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250630
 DTEND;VALUE=DATE:20250701
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 30th June 2025 at  The Artshack Shrewsbury
@@ -988,7 +988,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-1st-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250701
 DTEND;VALUE=DATE:20250702
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 1st July 2025 at  The Artshack Shrewsbury
@@ -1001,7 +1001,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-2nd-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250702
 DTEND;VALUE=DATE:20250703
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 2nd July 2025 at  The Artshack Shrewsbury
@@ -1014,7 +1014,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bellmans-yard-soul-club-20-00-4th-july-2025-5th-july-2025-at-royal-naval-club-newport-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250706
 SUMMARY:Bellmans Yard Soul Club 20:00 4th July 2025 – 5th July 2025 at  Royal Naval Club Newport
@@ -1026,7 +1026,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-4th-july-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250704
 DTEND;VALUE=DATE:20250705
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 4th July 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -1039,7 +1039,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cambrian-beer-festival-10-30-5th-july-2025-6th-july-2025-at-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250705
 DTEND;VALUE=DATE:20250707
 SUMMARY:Cambrian Beer Festival 10:30 5th July 2025 – 6th July 2025 at  Oswestry
@@ -1052,7 +1052,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:crefft-cymru-10-00-5th-july-2025-at-llanfyllin-workhouse-llanfyllin-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250705
 DTEND;VALUE=DATE:20250706
 SUMMARY:Crefft Cymru 10:00 5th July 2025 at  Llanfyllin Workhouse Llanfyllin
@@ -1065,7 +1065,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dragonfly-id-course-10-00-5th-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250705
 DTEND;VALUE=DATE:20250706
 SUMMARY:Dragonfly ID Course 10:00 5th July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1078,7 +1078,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:oswestry-food-drink-festival-10-00-5th-july-2025-6th-july-2025-at-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250705
 DTEND;VALUE=DATE:20250707
 SUMMARY:Oswestry Food & Drink Festival 10:00 5th July 2025 – 6th July 2025 at  Oswestry
@@ -1091,7 +1091,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stepping-out-10-00-5th-july-2025-at-shrewsbury-square-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250705
 DTEND;VALUE=DATE:20250706
 SUMMARY:Stepping Out 10:00 5th July 2025 at  Shrewsbury Square Shrewsbury
@@ -1104,7 +1104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-7th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250707
 DTEND;VALUE=DATE:20250708
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 7th July 2025 at  The Artshack Shrewsbury
@@ -1117,7 +1117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:books-autographs-and-manuscripts-valuation-event-shrewsbury-09-00-7th-july-2025-at-halls-holdings-limited-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250707
 DTEND;VALUE=DATE:20250708
 SUMMARY:Books\, Autographs and Manuscripts Valuation Event | Shrewsbury 09:00 7th July 2025 at  Halls Holdings Limited Shrewsbury
@@ -1130,7 +1130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-rehearsal-room-summer-school-09-00-7th-july-2025-18th-july-2025-at-prestfelde-school-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250707
 DTEND;VALUE=DATE:20250719
 SUMMARY:The Rehearsal Room Summer School 09:00 7th July 2025 – 18th July 2025 at  Prestfelde School Shrewsbury
@@ -1143,7 +1143,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-8th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250708
 DTEND;VALUE=DATE:20250709
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 8th July 2025 at  The Artshack Shrewsbury
@@ -1156,7 +1156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-9th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250709
 DTEND;VALUE=DATE:20250710
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 9th July 2025 at  The Artshack Shrewsbury
@@ -1169,7 +1169,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:goldstone-gardens-open-for-ngs-11-00-9th-july-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250709
 DTEND;VALUE=DATE:20250710
 SUMMARY:Goldstone Gardens Open for NGS 11:00 9th July 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -1182,7 +1182,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:collectively-19-00-10th-july-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250710
 DTEND;VALUE=DATE:20250711
 SUMMARY:COLLECTIVELY 19:00 10th July 2025 at
@@ -1194,7 +1194,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-music-weekend-friday-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250712
 SUMMARY:Chester Races — Summer Music Weekend (Friday)
@@ -1207,7 +1207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:conwy-river-festival-regatta-weekend-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250714
 SUMMARY:Conwy River Festival — Regatta Weekend
@@ -1220,7 +1220,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-11th-july-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250712
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 11th July 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -1233,7 +1233,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llangollen-fringe-festival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250711
 DTEND;VALUE=DATE:20250721
 SUMMARY:Llangollen Fringe Festival
@@ -1246,7 +1246,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cardington-village-fete-13-30-12th-july-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250712
 DTEND;VALUE=DATE:20250713
 SUMMARY:Cardington Village Fete 13:30 12th July 2025 at
@@ -1258,7 +1258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-summer-music-weekend-saturday-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250712
 DTEND;VALUE=DATE:20250713
 SUMMARY:Chester Races — Summer Music Weekend (Saturday)
@@ -1271,7 +1271,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:newport-music-club-50th-anniversary-season-presents-svetlana-mochalova-slava-sidorenko-cello-piano-duo-in-concert-19-00-12th-july-2025-at-cosy-hall-telford-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250712
 DTEND;VALUE=DATE:20250713
 SUMMARY:Newport Music Club 50th Anniversary Season presents Svetlana Mochalova & Slava Sidorenko Cello & Piano Duo in concert 19:00 12th July 2025 at  Cosy Hall Telford
@@ -1284,7 +1284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-14th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250714
 DTEND;VALUE=DATE:20250715
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 14th July 2025 at  The Artshack Shrewsbury
@@ -1297,7 +1297,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-15th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250715
 DTEND;VALUE=DATE:20250716
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 15th July 2025 at  The Artshack Shrewsbury
@@ -1310,7 +1310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-16th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250716
 DTEND;VALUE=DATE:20250717
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 16th July 2025 at  The Artshack Shrewsbury
@@ -1323,7 +1323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:conwy-river-festival-la-la-rally-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250717
 DTEND;VALUE=DATE:20250720
 SUMMARY:Conwy River Festival — LA-LA Rally
@@ -1336,7 +1336,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-18th-july-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250718
 DTEND;VALUE=DATE:20250719
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 18th July 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -1349,7 +1349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:woodshrop-25-festival-17-00-18th-july-2025-20th-july-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250718
 DTEND;VALUE=DATE:20250721
 SUMMARY:Woodshrop'25 Festival 17:00 18th July 2025 – 20th July 2025 at
@@ -1361,7 +1361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-night-at-the-opera-19-00-19th-july-2025-at-llanfyllin-workhouse-llanfyllin-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:A Night at the Opera 19:00 19th July 2025 at  Llanfyllin Workhouse Llanfyllin
@@ -1374,7 +1374,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:churchill-s-citadel-chartwell-and-the-gatherings-before-the-storm-13-30-19th-july-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:Churchill's Citadel: Chartwell and the Gatherings Before the Storm 13:30 19th July 2025 at  Stokesay Court Craven Arms
@@ -1387,7 +1387,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gardens-falconry-at-stokesay-court-10-30-19th-july-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:Gardens & Falconry at Stokesay Court 10:30 19th July 2025 at  Stokesay Court Craven Arms
@@ -1400,7 +1400,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hereford-cathedral-s-library-archive-mappa-mundi-world-class-treasures-preserved-in-the-marches-10-30-19th-july-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:Hereford Cathedral's Library\, Archive & Mappa Mundi - world class treasures preserved in The Marches 10:30 19th July 2025 at  Stokesay Court Craven Arms
@@ -1413,7 +1413,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:marches-of-time-history-festival-10-00-19th-july-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:Marches of Time History Festival 10:00 19th July 2025 at  Stokesay Court Craven Arms
@@ -1426,7 +1426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:piers-torday-and-midnight-treasure-transylvania-by-train-15-30-19th-july-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:Piers Torday and Midnight Treasure: Transylvania by Train 15:30 19th July 2025 at  Stokesay Court Craven Arms
@@ -1439,7 +1439,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:recital-white-in-the-moon-the-long-road-lies-18-00-19th-july-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:Recital: 'White in the Moon the Long Road Lies' 18:00 19th July 2025 at  Stokesay Court Craven Arms
@@ -1452,7 +1452,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-comic-con-10-00-19th-july-2025-at-church-of-st-mary-the-virgin-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:Shrewsbury Comic Con 10:00 19th July 2025 at  Church of St Mary the Virgin Shrewsbury
@@ -1465,7 +1465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-21st-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 21st July 2025 at  The Artshack Shrewsbury
@@ -1478,7 +1478,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-21st-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
 SUMMARY:How to Train Your Dragon 13:00 21st July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1491,7 +1491,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-22nd-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250722
 DTEND;VALUE=DATE:20250723
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 22nd July 2025 at  The Artshack Shrewsbury
@@ -1504,7 +1504,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-22nd-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250722
 DTEND;VALUE=DATE:20250723
 SUMMARY:How to Train Your Dragon 13:00 22nd July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1517,7 +1517,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-23rd-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250723
 DTEND;VALUE=DATE:20250724
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 23rd July 2025 at  The Artshack Shrewsbury
@@ -1530,7 +1530,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-23rd-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250723
 DTEND;VALUE=DATE:20250724
 SUMMARY:How to Train Your Dragon 13:00 23rd July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1543,7 +1543,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-24th-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250724
 DTEND;VALUE=DATE:20250725
 SUMMARY:How to Train Your Dragon 13:00 24th July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1556,7 +1556,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-25th-july-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250726
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 25th July 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -1569,7 +1569,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:make-a-glass-picture-tile-14-30-25th-july-2025-at-worthen-village-hall-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250726
 SUMMARY:Make a Glass Picture Tile 14:30 25th July 2025 at  Worthen Village Hall Shrewsbury
@@ -1582,7 +1582,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stokesay-court-guided-house-tour-14-30-25th-july-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250726
 SUMMARY:Stokesay Court Guided House Tour 14:30 25th July 2025 at  Stokesay Court Craven Arms
@@ -1595,7 +1595,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-disco-for-single-people-in-shropshire-hawaiian-themed-19-00-25th-july-2025-at-the-shropshire-golf-centre-telford-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250726
 SUMMARY:THE disco for single people in Shropshire - Hawaiian Themed 19:00 25th July 2025 at  The Shropshire Golf Centre Telford
@@ -1608,7 +1608,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:together-again-festival-bolesworth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250728
 SUMMARY:Together Again Festival (Bolesworth)
@@ -1621,7 +1621,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:camp-severn-kids-festival-10-00-26th-july-2025-27th-july-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250726
 DTEND;VALUE=DATE:20250728
 SUMMARY:Camp Severn - Kids Festival 10:00 26th July 2025 – 27th July 2025 at
@@ -1633,7 +1633,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-midsummer-meeting-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250726
 DTEND;VALUE=DATE:20250727
 SUMMARY:Chester Races — Midsummer Meeting
@@ -1646,7 +1646,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:church-stretton-arts-festival-09-00-26th-july-2025-10th-august-2025-at-various-locations-around-church-stretton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250726
 DTEND;VALUE=DATE:20250811
 SUMMARY:Church Stretton Arts Festival 09:00 26th July 2025 – 10th August 2025 at  Various locations around Church Stretton
@@ -1658,7 +1658,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:national-open-garden-scheme-bryngwyn-hall-12-00-27th-july-2025-at-bryngwyn-hall-and-estate-llanfyllin-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250727
 DTEND;VALUE=DATE:20250728
 SUMMARY:National open garden scheme - Bryngwyn hall 12:00 27th July 2025 at  Bryngwyn hall and estate Llanfyllin
@@ -1671,7 +1671,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-28th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250728
 DTEND;VALUE=DATE:20250729
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 28th July 2025 at  The Artshack Shrewsbury
@@ -1684,7 +1684,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-28th-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250728
 DTEND;VALUE=DATE:20250729
 SUMMARY:Going on a Bear Hunt 13:00 28th July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1697,7 +1697,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-29th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250729
 DTEND;VALUE=DATE:20250730
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 29th July 2025 at  The Artshack Shrewsbury
@@ -1710,7 +1710,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-29th-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250729
 DTEND;VALUE=DATE:20250730
 SUMMARY:Going on a Bear Hunt 13:00 29th July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1723,7 +1723,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-30th-july-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250730
 DTEND;VALUE=DATE:20250731
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 30th July 2025 at  The Artshack Shrewsbury
@@ -1736,7 +1736,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-30th-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250730
 DTEND;VALUE=DATE:20250731
 SUMMARY:Going on a Bear Hunt 13:00 30th July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1749,7 +1749,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-31st-july-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250731
 DTEND;VALUE=DATE:20250801
 SUMMARY:Going on a Bear Hunt 13:00 31st July 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -1762,7 +1762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-1st-august-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 1st August 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -1775,7 +1775,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:impressions-of-a-vanished-railway-10-30-2nd-august-2025-10th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250802
 DTEND;VALUE=DATE:20250811
 SUMMARY:Impressions of a Vanished Railway 10:30 2nd August 2025 – 10th August 2025 at
@@ -1787,7 +1787,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:national-eisteddfod-of-wales-wrexham-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250802
 DTEND;VALUE=DATE:20250810
 SUMMARY:National Eisteddfod of Wales — Wrexham
@@ -1800,7 +1800,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-family-fun-day-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250803
 DTEND;VALUE=DATE:20250804
 SUMMARY:Chester Races — Family Fun Day
@@ -1813,7 +1813,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-4th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250804
 DTEND;VALUE=DATE:20250805
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 4th August 2025 at  The Artshack Shrewsbury
@@ -1826,7 +1826,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:books-autographs-and-manuscripts-valuation-event-shrewsbury-09-00-4th-august-2025-at-halls-holdings-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250804
 DTEND;VALUE=DATE:20250805
 SUMMARY:Books\, Autographs and Manuscripts Valuation Event | Shrewsbury 09:00 4th August 2025 at  Halls Holdings House Shrewsbury
@@ -1839,7 +1839,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fire-warden-training-course-at-eaton-manor-09-30-4th-august-2025-at-eaton-manor-country-estate-church-stretton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250804
 DTEND;VALUE=DATE:20250805
 SUMMARY:Fire Warden Training Course at Eaton Manor 09:30 4th August 2025 at  Eaton Manor Country Estate Church Stretton
@@ -1852,7 +1852,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-4th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250804
 DTEND;VALUE=DATE:20250805
 SUMMARY:Remarkable Romans 13:00 4th August 2025 at
@@ -1864,7 +1864,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:yoga-brunch-at-shrewsbury-castle-11-00-4th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250804
 DTEND;VALUE=DATE:20250805
 SUMMARY:Yoga & Brunch at Shrewsbury Castle 11:00 4th August 2025 at
@@ -1877,7 +1877,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-5th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250805
 DTEND;VALUE=DATE:20250806
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 5th August 2025 at  The Artshack Shrewsbury
@@ -1890,7 +1890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-5th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250805
 DTEND;VALUE=DATE:20250806
 SUMMARY:Remarkable Romans 13:00 5th August 2025 at
@@ -1902,7 +1902,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-6th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250806
 DTEND;VALUE=DATE:20250807
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 6th August 2025 at  The Artshack Shrewsbury
@@ -1915,7 +1915,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-6th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250806
 DTEND;VALUE=DATE:20250807
 SUMMARY:Remarkable Romans 13:00 6th August 2025 at
@@ -1927,7 +1927,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-7th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250807
 DTEND;VALUE=DATE:20250808
 SUMMARY:Remarkable Romans 13:00 7th August 2025 at
@@ -1939,7 +1939,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-8th-august-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250808
 DTEND;VALUE=DATE:20250809
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 8th August 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -1952,7 +1952,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:acton-scott-hall-and-stokesay-court-ingenuity-and-entertainment-11-00-9th-august-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250809
 DTEND;VALUE=DATE:20250810
 SUMMARY:Acton Scott Hall and Stokesay Court Ingenuity and Entertainment 11:00 9th August 2025 at  Stokesay Court Craven Arms
@@ -1965,7 +1965,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:impressions-of-a-vanished-railway-10-30-9th-august-2025-10th-august-2025-at-oswestry-station-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250809
 DTEND;VALUE=DATE:20250811
 SUMMARY:Impressions of a Vanished Railway 10:30 9th August 2025 – 10th August 2025 at  Oswestry Station Oswestry
@@ -1978,7 +1978,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:traitors-for-daters-for-25-35-year-olds-in-shropshire-19-00-9th-august-2025-at-haughton-hall-hotel-shifnal-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250809
 DTEND;VALUE=DATE:20250810
 SUMMARY:Traitors for Daters for 25-35 year olds in Shropshire 19:00 9th August 2025 at  Haughton Hall Hotel Shifnal
@@ -1991,7 +1991,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-11th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250811
 DTEND;VALUE=DATE:20250812
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 11th August 2025 at  The Artshack Shrewsbury
@@ -2004,7 +2004,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-11th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250811
 DTEND;VALUE=DATE:20250812
 SUMMARY:How to Train Your Dragon 13:00 11th August 2025 at
@@ -2016,7 +2016,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:anglesey-county-show-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250814
 SUMMARY:Anglesey County Show
@@ -2029,7 +2029,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-12th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 12th August 2025 at  The Artshack Shrewsbury
@@ -2042,7 +2042,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-12th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:How to Train Your Dragon 13:00 12th August 2025 at
@@ -2054,7 +2054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-speed-dating-evening-for-single-people-over-60-in-shropshire-19-30-12th-august-2025-at-the-shropshire-golf-centre-telford-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
 SUMMARY:THE speed dating evening for single people over 60 in Shropshire 19:30 12th August 2025 at  The Shropshire Golf Centre Telford
@@ -2067,7 +2067,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-13th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 13th August 2025 at  The Artshack Shrewsbury
@@ -2080,7 +2080,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:goldstone-gardens-open-for-ngs-11-00-13th-august-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
 SUMMARY:Goldstone Gardens Open for NGS 11:00 13th August 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2093,7 +2093,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-13th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
 SUMMARY:How to Train Your Dragon 13:00 13th August 2025 at
@@ -2105,7 +2105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-taste-late-summer-10-30-14th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250814
 DTEND;VALUE=DATE:20250815
 SUMMARY:A Taste Late Summer 10:30 14th August 2025 at
@@ -2117,7 +2117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-to-train-your-dragon-13-00-14th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250814
 DTEND;VALUE=DATE:20250815
 SUMMARY:How to Train Your Dragon 13:00 14th August 2025 at
@@ -2129,7 +2129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-15th-august-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250816
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 15th August 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2142,7 +2142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minsterley-show-2025-150th-anniversary-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250817
 SUMMARY:Minsterley Show 2025 (150th Anniversary)
@@ -2155,7 +2155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:oswestry-balloon-carnival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250818
 SUMMARY:Oswestry Balloon Carnival
@@ -2168,7 +2168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-18th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250819
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 18th August 2025 at  The Artshack Shrewsbury
@@ -2181,7 +2181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-18th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250819
 SUMMARY:Going on a Bear Hunt 13:00 18th August 2025 at
@@ -2193,7 +2193,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:south-shropshire-stories-free-outdoor-filmmaking-project-for-young-people-10-30-18th-august-2025-20th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250821
 SUMMARY:South Shropshire Stories - free outdoor filmmaking project for young people 10:30 18th August 2025 – 20th August 2025 at
@@ -2205,7 +2205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-19th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250820
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 19th August 2025 at  The Artshack Shrewsbury
@@ -2218,7 +2218,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-19th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250820
 SUMMARY:Going on a Bear Hunt 13:00 19th August 2025 at
@@ -2230,7 +2230,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-20th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250820
 DTEND;VALUE=DATE:20250821
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 20th August 2025 at  The Artshack Shrewsbury
@@ -2243,7 +2243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-20th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250820
 DTEND;VALUE=DATE:20250821
 SUMMARY:Going on a Bear Hunt 13:00 20th August 2025 at
@@ -2255,7 +2255,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:going-on-a-bear-hunt-13-00-21st-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
 SUMMARY:Going on a Bear Hunt 13:00 21st August 2025 at
@@ -2267,7 +2267,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bridgnorth-music-arts-festival-18-28-22nd-august-2025-25th-august-2025-at-bridgnorth-town-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250826
 SUMMARY:Bridgnorth Music & Arts Festival 18:28 22nd August 2025 – 25th August 2025 at  Bridgnorth Town Bridgnorth
@@ -2280,7 +2280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-22nd-august-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 22nd August 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2293,7 +2293,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:meadowsweet-supper-club-19-00-22nd-august-2025-at-meadowsweet-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
 SUMMARY:Meadowsweet Supper Club 19:00 22nd August 2025 at  Meadowsweet Shrewsbury
@@ -2306,7 +2306,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-folk-festival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250826
 SUMMARY:Shrewsbury Folk Festival
@@ -2319,7 +2319,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stokesay-court-evening-house-tour-17-15-22nd-august-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
 SUMMARY:Stokesay Court Evening House Tour 17:15 22nd August 2025 at  Stokesay Court Craven Arms
@@ -2332,7 +2332,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:davenport-house-jane-austen-250th-garden-party-16-00-23rd-august-2025-at-davenport-house-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250823
 DTEND;VALUE=DATE:20250824
 SUMMARY:DAVENPORT HOUSE JANE AUSTEN 250TH GARDEN PARTY 16:00 23rd August 2025 at  Davenport House
@@ -2345,7 +2345,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-steam-rally-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250824
 DTEND;VALUE=DATE:20250826
 SUMMARY:Shrewsbury Steam Rally
@@ -2358,7 +2358,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-25th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250825
 DTEND;VALUE=DATE:20250826
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 25th August 2025 at  The Artshack Shrewsbury
@@ -2371,7 +2371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-25th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250825
 DTEND;VALUE=DATE:20250826
 SUMMARY:Remarkable Romans 13:00 25th August 2025 at
@@ -2383,7 +2383,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-26th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250826
 DTEND;VALUE=DATE:20250827
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 26th August 2025 at  The Artshack Shrewsbury
@@ -2396,7 +2396,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-26th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250826
 DTEND;VALUE=DATE:20250827
 SUMMARY:Remarkable Romans 13:00 26th August 2025 at
@@ -2408,7 +2408,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-27th-august-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250828
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 27th August 2025 at  The Artshack Shrewsbury
@@ -2421,7 +2421,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-27th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250828
 SUMMARY:Remarkable Romans 13:00 27th August 2025 at
@@ -2433,7 +2433,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:remarkable-romans-13-00-28th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250829
 SUMMARY:Remarkable Romans 13:00 28th August 2025 at
@@ -2445,7 +2445,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:free-outdoor-family-workshop-exploring-farming-and-the-environment-and-using-digital-media-10-00-29th-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250830
 SUMMARY:FREE outdoor family workshop exploring farming and the environment\, and using digital media 10:00 29th August 2025 at
@@ -2457,7 +2457,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-29th-august-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250830
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 29th August 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2470,7 +2470,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nantwich-food-festival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250901
 SUMMARY:Nantwich Food Festival
@@ -2483,7 +2483,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stokesay-court-guided-house-tour-14-30-29th-august-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250830
 SUMMARY:Stokesay Court Guided House Tour 14:30 29th August 2025 at  Stokesay Court Craven Arms
@@ -2496,7 +2496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:angels-of-the-night-bat-walk-and-talk-19-30-30th-august-2025-at-shropshire-hills-discovery-centre-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250831
 SUMMARY:Angels of the Night Bat Walk and Talk 19:30 30th August 2025 at  Shropshire Hills Discovery Centre Craven Arms
@@ -2509,7 +2509,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-ladies-day-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250831
 SUMMARY:Chester Races — Ladies Day
@@ -2522,7 +2522,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:model-railway-exhibition-10-00-30th-august-2025-31st-august-2025-at-oswestry-station-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250901
 SUMMARY:Model Railway Exhibition 10:00 30th August 2025 – 31st August 2025 at  Oswestry Station Oswestry
@@ -2535,7 +2535,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:apple-forage-and-jelly-making-workshop-10-00-31st-august-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250831
 DTEND;VALUE=DATE:20250901
 SUMMARY:Apple Forage and Jelly Making Workshop 10:00 31st August 2025 at
@@ -2547,7 +2547,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-1st-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 1st September 2025 at  The Artshack Shrewsbury
@@ -2560,7 +2560,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:books-autographs-and-manuscripts-valuation-event-shrewsbury-09-00-1st-september-2025-at-halls-holdings-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
 SUMMARY:Books\, Autographs and Manuscripts Valuation Event | Shrewsbury 09:00 1st September 2025 at  Halls Holdings House Shrewsbury
@@ -2573,7 +2573,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wildlife-and-auroras-talk-15-00-1st-september-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
 SUMMARY:Wildlife and Auroras Talk 15:00 1st September 2025 at
@@ -2585,7 +2585,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-2nd-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250902
 DTEND;VALUE=DATE:20250903
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 2nd September 2025 at  The Artshack Shrewsbury
@@ -2598,7 +2598,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-3rd-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250903
 DTEND;VALUE=DATE:20250904
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 3rd September 2025 at  The Artshack Shrewsbury
@@ -2611,7 +2611,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-5th-september-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250906
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 5th September 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2624,7 +2624,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:goodheart-animal-sanctuary-open-day-10-00-6th-september-2025-at-goodheart-farm-animal-sanctuary-milson-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250907
 SUMMARY:Goodheart Animal Sanctuary Open Day 10:00 6th September 2025 at  Goodheart Farm Animal Sanctuary Milson
@@ -2637,7 +2637,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:singing-workshop-10-00-6th-september-2025-at-wenlock-abbey-much-wenlock-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250907
 SUMMARY:Singing Workshop 10:00 6th September 2025 at  Wenlock Abbey Much Wenlock
@@ -2650,7 +2650,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:you-re-the-top-the-life-songs-of-cole-porter-19-30-6th-september-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250907
 SUMMARY:You're The Top -  THE LIFE & SONGS OF COLE PORTER 19:30 6th September 2025 at
@@ -2662,7 +2662,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:open-doors-and-food-fair-at-llanfyllin-workhouse-10-00-7th-september-2025-at-llanfyllin-workhouse-llanfyllin-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250907
 DTEND;VALUE=DATE:20250908
 SUMMARY:Open Doors and Food Fair at Llanfyllin Workhouse 10:00 7th September 2025 at  Llanfyllin Workhouse Llanfyllin
@@ -2675,7 +2675,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shape-of-you-15-00-7th-september-2025-at-theatre-severn-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250907
 DTEND;VALUE=DATE:20250908
 SUMMARY:Shape of You 15:00 7th September 2025 at  Theatre Severn Shrewsbury
@@ -2688,7 +2688,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-8th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 8th September 2025 at  The Artshack Shrewsbury
@@ -2701,7 +2701,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sandon-fete-transport-show-2025-12-00-8th-september-2025-at-the-cricket-grounds-stafford-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
 SUMMARY:Sandon Fete & Transport Show 2025 12:00 8th September 2025 at  The Cricket Grounds Stafford
@@ -2714,7 +2714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wellington-walking-festival-2025-09-00-8th-september-2025-14th-september-2025-at-wellington-civic-and-leisure-centre-wellington-telford-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250915
 SUMMARY:Wellington Walking Festival 2025 09:00 8th September 2025 – 14th September 2025 at  Wellington Civic and Leisure Centre Wellington\, Telford
@@ -2727,7 +2727,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-9th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250910
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 9th September 2025 at  The Artshack Shrewsbury
@@ -2740,7 +2740,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-10th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250911
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 10th September 2025 at  The Artshack Shrewsbury
@@ -2753,7 +2753,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:goldstone-gardens-open-for-ngs-11-00-10th-september-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250911
 SUMMARY:Goldstone Gardens Open for NGS 11:00 10th September 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2766,7 +2766,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-autumn-festival-friday-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250913
 SUMMARY:Chester Races — Autumn Festival (Friday)
@@ -2779,7 +2779,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-12th-september-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250913
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 12th September 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2792,7 +2792,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-open-days-12th-september-2025-21st-september-2025-at-oswestry-station-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250922
 SUMMARY:Heritage Open Days 12th September 2025 – 21st September 2025 at  Oswestry Station Oswestry
@@ -2805,7 +2805,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-food-festival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250915
 SUMMARY:Ludlow Food Festival
@@ -2818,7 +2818,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shakespeare-at-st-marys-a-table-of-green-fields-the-oxford-rep-company-19-30-12th-september-2025-13th-september-2025-at-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250914
 SUMMARY:Shakespeare at St Mary’s ‘A Table of Green Fields’ The Oxford Rep Company 19:30 12th September 2025 – 13th September 2025 at SHREWSBURY
@@ -2831,7 +2831,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-autumn-festival-saturday-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250914
 SUMMARY:Chester Races — Autumn Festival (Saturday)
@@ -2844,7 +2844,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:faces-we-love-a-celebration-of-portraiture-at-van-gallery-10-00-14th-september-2025-11th-november-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250914
 DTEND;VALUE=DATE:20251112
 SUMMARY:Faces We Love: A Celebration of Portraiture at VAN Gallery 10:00 14th September 2025 – 11th November 2025 at
@@ -2857,7 +2857,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-15th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250916
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 15th September 2025 at  The Artshack Shrewsbury
@@ -2870,7 +2870,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-16th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 16th September 2025 at  The Artshack Shrewsbury
@@ -2883,7 +2883,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:third-class-a-titanic-story-19-30-16th-september-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 SUMMARY:Third Class - A Titanic Story 19:30 16th September 2025 at
@@ -2895,7 +2895,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-17th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250918
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 17th September 2025 at  The Artshack Shrewsbury
@@ -2908,7 +2908,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:flicks-in-the-sticks-ryton-near-dorrington-19-30-19th-september-2025-at-ryton-village-hall-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Flicks in the Sticks\, Ryton near Dorrington 19:30 19th September 2025 at  Ryton Village Hall Shrewsbury
@@ -2921,7 +2921,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-19th-september-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 19th September 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -2934,7 +2934,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:priorslee-st-georges-charity-beer-festival-2025-17-00-19th-september-2025-20th-september-2025-at-scout-hq-telford-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250921
 SUMMARY:Priorslee & St Georges Charity Beer Festival 2025 17:00 19th September 2025 – 20th September 2025 at  Scout HQ Telford
@@ -2947,7 +2947,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-races-oktoberfest-season-finale-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 SUMMARY:Chester Races — Oktoberfest Season Finale
@@ -2960,7 +2960,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mettle-19-30-20th-september-2025-at-quatt-village-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 SUMMARY:Mettle 19:30 20th September 2025 at  Quatt Village Hall Bridgnorth
@@ -2972,7 +2972,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wem-heritage-morning-09-30-20th-september-2025-at-wem-town-hall-wem-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 SUMMARY:Wem Heritage Morning 09:30 20th September 2025 at  Wem Town Hall Wem
@@ -2985,7 +2985,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:oswestry-folk-music-harp-a-monkey-19-30-21st-september-2025-at-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250921
 DTEND;VALUE=DATE:20250922
 SUMMARY:Oswestry Folk Music - Harp &a Monkey 19:30 21st September 2025 at  Oswestry
@@ -2998,7 +2998,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-22nd-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 22nd September 2025 at  The Artshack Shrewsbury
@@ -3011,7 +3011,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-23rd-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 23rd September 2025 at  The Artshack Shrewsbury
@@ -3024,7 +3024,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-24th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 24th September 2025 at  The Artshack Shrewsbury
@@ -3037,7 +3037,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-24th-september-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
 SUMMARY:Have a go at Morris Dancing 20:15 24th September 2025 at  Prestfelde School Shresbury
@@ -3050,7 +3050,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-taste-of-autumn-and-spice-10-30-25th-september-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250926
 SUMMARY:A Taste of Autumn and Spice 10:30 25th September 2025 at
@@ -3062,7 +3062,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:eleanor-dunsden-gregor-black-shirefolk-tour-19-00-25th-september-2025-27th-september-2025-at-violets-tea-room-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250928
 SUMMARY:Eleanor Dunsden & Gregor Black - ShireFolk Tour 19:00 25th September 2025 – 27th September 2025 at  Violets Tea Room Bridgnorth
@@ -3075,7 +3075,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-26th-september-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 26th September 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -3088,7 +3088,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stokesay-court-guided-house-tour-14-30-26th-september-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
 SUMMARY:Stokesay Court Guided House Tour 14:30 26th September 2025 at  Stokesay Court Craven Arms
@@ -3101,7 +3101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:21st-century-folk-inspired-music-from-joe-bayliss-featuring-renowned-upright-bass-player-mike-seal-20-00-27th-september-2025-28th-september-2025-at-quatt-village-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250929
 SUMMARY:21st century folk -inspired music from Joe Bayliss... featuring renowned upright bass player – Mike Seal 20:00 27th September 2025 – 28th September 2025 at  Quatt Village Hall Bridgnorth
@@ -3113,7 +3113,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-magical-day-of-woodturning-11-00-27th-september-2025-at-bicton-village-hall-bicton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
 SUMMARY:A Magical Day of Woodturning 11:00 27th September 2025 at  Bicton Village Hall Bicton
@@ -3126,7 +3126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:amit-dattani-the-wrong-kind-of-one-album-release-tour-at-ludlow-assembly-rooms-ludlow-19-30-27th-september-2025-at-ludlow-assembly-rooms-ludlow-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
 SUMMARY:Amit Dattani - The Wrong Kind Of One Album Release Tour - at Ludlow Assembly Rooms\, Ludlow. 19:30 27th September 2025 at  Ludlow Assembly Rooms Ludlow
@@ -3139,7 +3139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:taster-foraging-event-at-nessclife-woods-10-00-27th-september-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
 SUMMARY:Taster Foraging Event at Nessclife Woods 10:00 27th September 2025 at
@@ -3152,7 +3152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wild-about-birds-10-00-27th-september-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
 SUMMARY:Wild About Birds 10:00 27th September 2025 at
@@ -3164,7 +3164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-half-marathon-metric-half-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250928
 DTEND;VALUE=DATE:20250929
 SUMMARY:Shrewsbury Half Marathon & Metric Half
@@ -3177,7 +3177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-29th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 29th September 2025 at  The Artshack Shrewsbury
@@ -3190,7 +3190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-30th-september-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 30th September 2025 at  The Artshack Shrewsbury
@@ -3203,7 +3203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-1st-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 1st October 2025 at  The Artshack Shrewsbury
@@ -3216,7 +3216,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-1st-october-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Have a go at Morris Dancing 20:15 1st October 2025 at  Prestfelde School Shresbury
@@ -3229,7 +3229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gobbess-19-30-2nd-october-2025-at-sparc-theatre-bishop-s-castles-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:Gobbess 19:30 2nd October 2025 at  SpArC Theatre Bishop's Castles
@@ -3242,7 +3242,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:my-car-plays-tapes-19-30-2nd-october-2025-at-st-alkmund-s-church-shrewsbury-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:My Car Plays Tapes 19:30 2nd October 2025 at  St Alkmund's Church\, Shrewsbury Shrewsbury
@@ -3255,7 +3255,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-3rd-october-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251004
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 3rd October 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -3268,7 +3268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shropshire-oktoberfest-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251005
 SUMMARY:Shropshire Oktoberfest
@@ -3281,7 +3281,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-nice-dilemma-at-stokesay-court-19-00-4th-october-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 SUMMARY:A Nice Dilemma at Stokesay Court 19:00 4th October 2025 at  Stokesay Court Craven Arms
@@ -3294,7 +3294,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:an-evening-with-alex-jennings-18-00-4th-october-2025-at-wenlock-abbey-much-wenlock-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 SUMMARY:An Evening with Alex Jennings 18:00 4th October 2025 at  Wenlock Abbey Much Wenlock
@@ -3307,7 +3307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-racecourse-antiques-fair-10-00-4th-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 SUMMARY:Ludlow Racecourse Antiques Fair 10:00 4th October 2025 at
@@ -3320,7 +3320,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mushroom-mosey-at-fordhall-farm-10-00-4th-october-2025-at-fordhall-organic-farm-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 SUMMARY:Mushroom Mosey at Fordhall Farm 10:00 4th October 2025 at  Fordhall Organic Farm Market Drayton
@@ -3333,7 +3333,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:my-car-plays-tapes-19-30-4th-october-2025-at-lydbury-north-village-hall-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 SUMMARY:My Car Plays Tapes 19:30 4th October 2025 at  Lydbury North Village Hall
@@ -3346,7 +3346,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pant-autumn-bazaar-2025-14-00-4th-october-2025-at-pant-memorial-hall-oswestry-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 SUMMARY:Pant Autumn Bazaar 2025 14:00 4th October 2025 at  Pant Memorial Hall Oswestry
@@ -3359,7 +3359,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-6th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251007
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 6th October 2025 at  The Artshack Shrewsbury
@@ -3372,7 +3372,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:books-autographs-and-manuscripts-valuation-event-shrewsbury-09-00-6th-october-2025-at-halls-holdings-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251007
 SUMMARY:Books\, Autographs and Manuscripts Valuation Event | Shrewsbury 09:00 6th October 2025 at  Halls Holdings House Shrewsbury
@@ -3385,7 +3385,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-7th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 7th October 2025 at  The Artshack Shrewsbury
@@ -3398,7 +3398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-8th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251008
 DTEND;VALUE=DATE:20251009
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 8th October 2025 at  The Artshack Shrewsbury
@@ -3411,7 +3411,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-8th-october-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251008
 DTEND;VALUE=DATE:20251009
 SUMMARY:Have a go at Morris Dancing 20:15 8th October 2025 at  Prestfelde School Shresbury
@@ -3424,7 +3424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-spring-planters-workshop-09-30-9th-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
 SUMMARY:Winter & Spring Planters Workshop 09:30 9th October 2025 at
@@ -3436,7 +3436,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-10th-october-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 10th October 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -3449,7 +3449,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-django-fest-2025-10th-october-2025-12th-october-2025-at-st-mary-s-church-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251013
 SUMMARY:Shrewsbury Django Fest 2025 10th October 2025 – 12th October 2025 at  St Mary's Church Shrewsbury
@@ -3462,7 +3462,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:the-great-baldini-s-family-magic-19-00-10th-october-2025-at-stoke-st-milborough-village-hall-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 SUMMARY:The Great Baldini's FAMILY MAGIC 19:00 10th October 2025 at  Stoke St Milborough Village Hall
@@ -3475,7 +3475,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wild-19-30-10th-october-2025-at-beckbury-village-hall-beckbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 SUMMARY:Wild 19:30 10th October 2025 at  Beckbury Village Hall Beckbury
@@ -3487,7 +3487,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:oswestry-10k-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251012
 DTEND;VALUE=DATE:20251013
 SUMMARY:Oswestry 10K
@@ -3500,7 +3500,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-13th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251013
 DTEND;VALUE=DATE:20251014
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 13th October 2025 at  The Artshack Shrewsbury
@@ -3513,7 +3513,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-14th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251015
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 14th October 2025 at  The Artshack Shrewsbury
@@ -3526,7 +3526,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-15th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 15th October 2025 at  The Artshack Shrewsbury
@@ -3539,7 +3539,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-15th-october-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Have a go at Morris Dancing 20:15 15th October 2025 at  Prestfelde School Shresbury
@@ -3552,7 +3552,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:heidi-talbot-19-30-15th-october-2025-at-wem-town-hall-wem-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Heidi Talbot 19:30 15th October 2025 at  Wem Town Hall Wem
@@ -3564,8 +3564,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:flicks-in-the-sticks-ryton-near-dorrington-a-haunting-in-venice-19-30-17th-october-2025-at-ryton-village-hall-shrewsbury-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Flicks in the Sticks\, Ryton near Dorrington -  A Haunting in Venice 19:30 17th October 2025 at  Ryton Village Hall Shrewsbury
+LOCATION:Ryton Village Hall
+DESCRIPTION:Close Flicks in the Sticks\, Ryton near Dorrington -  A Haunting in Venice 19:30 - 21:45 17th October 2025 Ryton Village Hall Little Ryton Shrewsbury \, SY5 7NB View Location Map Ryton Village Hall A Haunting in Venice is a 2023 mystery film produced and directed by Kenneth Branagh \, loosely based on the 1969 Agatha Christie novel Hallowe'en Party. The film is set in eerie\, post-World War II Venice on All Hallows' Eve and is a scary mystery featuring the return of the celebrated sleuth\, Hercule Poirot. Now retired and living in self-imposed exile in the world's most glamorous city\, Poirot reluct\nMore: https://www.rytonvh.org.uk/
+URL:https://www.rytonvh.org.uk/
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-17th-october-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 17th October 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -3578,7 +3591,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:heidi-talbot-19-30-17th-october-2025-at-clungunford-village-hall-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
 SUMMARY:Heidi Talbot 19:30 17th October 2025 at  Clungunford Village Hall
@@ -3591,7 +3604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:how-reggae-changed-the-world-19-30-17th-october-2025-at-the-talbot-theatre-whitchurch-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
 SUMMARY:How Reggae Changed The World 19:30 17th October 2025 at  The Talbot Theatre Whitchurch
@@ -3603,8 +3616,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:shrewsbury-big-mend-10-00-18th-october-2025-at-prestfelde-school-shresbury-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:Shrewsbury Big Mend 10:00 18th October 2025 at  Prestfelde School Shresbury
+LOCATION:Close Shrewsbury Big Mend 10:00 - 14:00 18th October 2025 Prestfelde School London Road Shresbury \, Shropshire SY26NZ 07799408297 View Location Map Prestfelde School Do you have households items that are broken or not working? Do you clothes or textiles with a tear or hole? Do you have a treasured item you need advice about? Then don't throw it away or push it to the back of the cupboard - bring it along to The Big Mend. Experienced and skilled repairers from across the Shropshire's Repair Cafes will be on hand to repair and fix your items with and for you and valuers from Halls Auctioneers will be there conducting valuations on your items too. The event is a collaboration between Shrewsbury Repair Cafe\, Veolia and Prestfelde School to mark and celebrate International Repair Day. Refreshments will be served throughout the day and all donations received will go to support the ongoing work of repair cafes in the county. More Information end .details
+DESCRIPTION:Close Shrewsbury Big Mend 10:00 - 14:00 18th October 2025 Prestfelde School London Road Shresbury \, Shropshire SY26NZ 07799408297 View Location Map Prestfelde School Do you have households items that are broken or not working? Do you clothes or textiles with a tear or hole? Do you have a treasured item you need advice about? Then don't throw it away or push it to the back of the cupboard - bring it along to The Big Mend. Experienced and skilled repairers from across the Shropshire's Repair Cafes will be on hand to repair and fix your items with and for you and valuers from Halls Auctioneers wi\nMore: https://www.facebook.com/shrewsrepaircafe/?locale=en_GB
+URL:https://www.facebook.com/shrewsrepaircafe/?locale=en_GB
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:two-classic-tales-of-terror-from-w-w-jacobs-by-the-clockwork-donkey-theatre-20-00-18th-october-2025-at-quatt-village-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251018
 DTEND;VALUE=DATE:20251019
 SUMMARY:TWO CLASSIC TALES OF TERROR from W.W. Jacobs by The Clockwork Donkey Theatre 20:00 18th October 2025 at  Quatt Village Hall Bridgnorth
@@ -3616,7 +3642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-20th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 20th October 2025 at  The Artshack Shrewsbury
@@ -3629,7 +3655,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-21st-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 21st October 2025 at  The Artshack Shrewsbury
@@ -3641,8 +3667,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:speed-dating-30-40-years-19-30-21st-october-2025-at-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+SUMMARY:Speed Dating - 30-40 years 19:30 21st October 2025 at
+DESCRIPTION:Close Speed Dating - 30-40 years 19:30 - 22:30 21st October 2025 Speed Dating Shropshire – Ages 30–40 We all need love and connection and meeting in real life is making a massive comeback! If you’re tired of endless swiping\, ghosting\, and online small talk that never goes anywhere\, this event is your chance to meet real single people face-to-face in a relaxed\, friendly setting. Who’s it for? This event is for single people aged 30–40 (we allow 2-3 years either side\, so 27–43 is fine). The only rule is that you must be single and open to meeting new people – whether that’s for friendship\, datin\nMore: https://www.eventbrite.co.uk/e/speed-dating-30-40-years-must-be-within-2-3-years-of-this-age-tickets-1627440571559?aff=oddtdtcreator
+URL:https://www.eventbrite.co.uk/e/speed-dating-30-40-years-must-be-within-2-3-years-of-this-age-tickets-1627440571559?aff=oddtdtcreator
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-22nd-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 22nd October 2025 at  The Artshack Shrewsbury
@@ -3655,7 +3693,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-22nd-october-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
 SUMMARY:Have a go at Morris Dancing 20:15 22nd October 2025 at  Prestfelde School Shresbury
@@ -3668,7 +3706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:live-at-davenport-house-jazz-17-30-23rd-october-2025-at-davenport-house-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 SUMMARY:LIVE AT DAVENPORT HOUSE: JAZZ 17:30 23rd October 2025 at  Davenport House
@@ -3681,7 +3719,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:robbie-cavanagh-shirefolk-tour-19-00-23rd-october-2025-26th-october-2025-at-violets-tea-room-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251027
 SUMMARY:Robbie Cavanagh - ShireFolk Tour 19:00 23rd October 2025 – 26th October 2025 at  Violets Tea Room Bridgnorth
@@ -3694,7 +3732,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:friday-garden-tour-at-goldstone-hall-hotel-gardens-11-00-24th-october-2025-at-goldstone-hall-hotel-gardens-market-drayton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 SUMMARY:Friday Garden Tour at Goldstone Hall Hotel & Gardens 11:00 24th October 2025 at  Goldstone Hall Hotel & Gardens Market Drayton
@@ -3707,7 +3745,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:greatest-hits-of-fleetwood-mac-live-19-30-24th-october-2025-at-silvester-horne-institute-church-stretton-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 SUMMARY:Greatest Hits of Fleetwood Mac - Live! 19:30 24th October 2025 at  Silvester Horne Institute Church Stretton\,
@@ -3720,7 +3758,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jekyll-hyde-19-30-24th-october-2025-at-the-edge-arts-centre-much-wenlock-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 SUMMARY:Jekyll & Hyde 19:30 24th October 2025 at  The Edge Arts Centre Much Wenlock
@@ -3733,7 +3771,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:third-class-a-titanic-story-19-30-24th-october-2025-at-habberley-village-hall-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 SUMMARY:Third Class - A Titanic Story 19:30 24th October 2025 at  Habberley Village Hall
@@ -3745,8 +3783,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:autumn-fair-10-00-25th-october-2025-at-church-of-st-mary-the-virgin-shrewsbury-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:Autumn Fair 10:00 25th October 2025 at  Church of St Mary the Virgin Shrewsbury
+LOCATION:Close Autumn Fair 10:00 - 16:00 25th October 2025 Church of St Mary the Virgin St Mary's Place Dogpole Shrewsbury \, SY1 1DX View Location Map Church of St Mary the Virgin 🍂 Shrewsbury Autumn Fair 🍂 St Mary’s Church\, Saturday 25th October\, 10am – 4pm Free Entry Celebrate the season at the Shrewsbury Autumn Fair inside the beautiful setting of St Mary’s Church. Browse a wide range of stalls showcasing local independent traders\, unique crafts\, handmade gifts\, seasonal produce\, and more. Whether you’re looking for something special\, want to support local businesses\, or just enjoy the festive autumn atmosphere\, there’s something for everyone. ✨ Lots of stalls ✨ Independent makers & traders ✨ Warm community spirit ✨ Free entry – all welcome! Come along\, bring friends and family\, and make a day of it in the heart of Shrewsbury! More Information end .details
+DESCRIPTION:Close Autumn Fair 10:00 - 16:00 25th October 2025 Church of St Mary the Virgin St Mary's Place Dogpole Shrewsbury \, SY1 1DX View Location Map Church of St Mary the Virgin 🍂 Shrewsbury Autumn Fair 🍂 St Mary’s Church\, Saturday 25th October\, 10am – 4pm Free Entry Celebrate the season at the Shrewsbury Autumn Fair inside the beautiful setting of St Mary’s Church. Browse a wide range of stalls showcasing local independent traders\, unique crafts\, handmade gifts\, seasonal produce\, and more. Whether you’re looking for something special\, want to support local businesses\, or just enjoy the festive autum\nMore: https://www.chantillygrey.com
+URL:https://www.chantillygrey.com
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:bonfire-and-fireworks-17-00-25th-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251025
 DTEND;VALUE=DATE:20251026
 SUMMARY:Bonfire and Fireworks 17:00 25th October 2025 at
@@ -3757,8 +3808,33 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:half-term-at-go-ape-wyre-25th-october-2025-2nd-november-2025-at-go-ape-wyre-kidderminster-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251103
+SUMMARY:Half Term at Go Ape Wyre 25th October 2025 – 2nd November 2025 at  Go Ape Wyre Kidderminster
+LOCATION:Go Ape Wyre
+DESCRIPTION:Close Half Term at Go Ape Wyre - 25th October 2025 – 2nd November 2025 Go Ape Wyre callow hill Bewdely Kidderminster \, Worcestershire DY14 9XQ 01603 895500 View Location Map Go Ape Wyre Looking for something unique to do this October half term with your Tribe? How about some outdoor activities packed with fresh air and adventure? Whether you’re a thrill seeker looking for action-packed fun or simply after some quality time with friends and family we have the adventure and holiday scene covered. Join us in the heart of Wyre Forest near Kidderminster for a day out in the treetops. Clamber up rop\nMore: https://www.goape.co.uk/locations/wyre
+URL:https://www.goape.co.uk/locations/wyre
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hencote-harvest-party-18-00-25th-october-2025-at-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:Hencote Harvest Party 18:00 25th October 2025 at
+DESCRIPTION:Close Hencote Harvest Party 18:00 - 23:00 25th October 2025 🍇✨ Hencote Harvest Celebration ✨🍇 Join us as we raise a glass to the end of the grape harvest and toast the fruits of the season! 🌾🍷 Tickets: 🍷 £55 per adult / children over 16 🎃 £20 per child aged 13–15 🍂 £12.50 per child aged 3–12 👶 Under 3’s FREE Come together at the vineyard for a joyful evening filled with: 🍇 Wine & grape juice tastings with our Head Winemaker 🎶 Live harvest entertainment from Abi Phillips 🍴 A hearty\, buffet-style autumn feast included in your ticket Schedule: 6:00pm – Arrival & welcome drink 7:00pm – Harvest buf\nMore: https://hencote.guestvoucher.co.uk/events/503/hencotes-harvest-party-25th-october-2025?nextAvailableTime=2025-10-25+18%3A00%3A00
+URL:https://hencote.guestvoucher.co.uk/events/503/hencotes-harvest-party-25th-october-2025?nextAvailableTime=2025-10-25+18%3A00%3A00
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:oswestry-antique-collectors-fair-08-00-25th-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251025
 DTEND;VALUE=DATE:20251026
 SUMMARY:Oswestry Antique & Collectors Fair 08:00 25th October 2025 at
@@ -3771,7 +3847,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pale-fire-music-presents-steve-gunn-with-special-guest-james-elkington-19-30-26th-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251026
 DTEND;VALUE=DATE:20251027
 SUMMARY:Pale Fire Music presents Steve Gunn\, with special guest James Elkington 19:30 26th October 2025 at
@@ -3782,8 +3858,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:traitors-for-daters-for-40-50-year-olds-in-shropshire-13-00-26th-october-2025-at-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251026
+DTEND;VALUE=DATE:20251027
+SUMMARY:Traitors for Daters for 40-50 year olds in Shropshire 13:00 26th October 2025 at
+DESCRIPTION:Close Traitors for Daters for 40-50 year olds in Shropshire 13:00 - 17:00 26th October 2025 Want to find love AND have fun at the same time? Come along to this classic game of Good vs Evil! You may have heard of the TV show Traitors or the online game Among Us...well this is similar! You will be in a room with up to 29 other players - there are 15 tickets for each gender on sale! You will be asked to close your eyes\, and the Games Masters will secretly select their evil players! If that's you\, then you will become one of the baddies! The werewolves! You have to kill off the villagers one by on\nMore: https://www.eventbrite.co.uk/e/traitors-for-daters-for-40-50-year-olds-in-shropshire-tickets-1620193926649?aff=oddtdtcreator
+URL:https://www.eventbrite.co.uk/e/traitors-for-daters-for-40-50-year-olds-in-shropshire-tickets-1620193926649?aff=oddtdtcreator
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-27th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 27th October 2025 at  The Artshack Shrewsbury
@@ -3796,7 +3884,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:escape-rooms-10-00-27th-october-2025-30th-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251031
 SUMMARY:Escape Rooms 10:00 27th October 2025 – 30th October 2025 at
@@ -3808,7 +3896,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-28th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 28th October 2025 at  The Artshack Shrewsbury
@@ -3821,7 +3909,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-29th-october-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 29th October 2025 at  The Artshack Shrewsbury
@@ -3834,7 +3922,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-29th-october-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 SUMMARY:Have a go at Morris Dancing 20:15 29th October 2025 at  Prestfelde School Shresbury
@@ -3847,7 +3935,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-craft-drop-in-13-00-31st-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Halloween Craft Drop In 13:00 31st October 2025 at
@@ -3859,7 +3947,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-fun-at-stokesay-court-14-00-31st-october-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Halloween Fun at Stokesay Court 14:00 31st October 2025 at
@@ -3870,8 +3958,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:the-halloween-disco-for-single-people-in-shropshire-19-00-31st-october-2025-at-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:THE Halloween Disco for Single People in Shropshire 19:00 31st October 2025 at
+LOCATION:Close THE Halloween Disco for Single People in Shropshire 19:00 - 23:30 31st October 2025 How do you fancy dancing and chatting with potential dates at THE Halloween Disco for Single People in Shropshire? There are not many places you can have a night out knowing everyone in the room is single and looking to date! Taking place at a beautiful country hotel in Shrewsbury\, this is going to be a fun night with cheesy dance floor fillers\, a DIY photo booth and the opportunity to match with potential dates! I can not stress this enough...please only buy a ticket if you are single\, and don't bring friends who are in relationships. We want this to be a room full of opportunities for singles in Shropshire! You can choose to either wear Halloween-themed fancy dress or just dress fancy - there is never any pressure at my discos! These have been the nicest events to attend\, based on feedback and reviews and a genuinely lovely way to meet friends and potentially to find love! Tickets are limited by gender\, and they have sold out previously\, so if you do fancy this\, don't wait too long or negotiate with yourself! Most people attend on their own so this is normal AND most people are nervous (until they settle in). We have a matching game at the beginning of the event so you have an excuse to talk to anyone and everyone along with party games (which are optional\, again no pressure). More Information end .details
+DESCRIPTION:Close THE Halloween Disco for Single People in Shropshire 19:00 - 23:30 31st October 2025 How do you fancy dancing and chatting with potential dates at THE Halloween Disco for Single People in Shropshire? There are not many places you can have a night out knowing everyone in the room is single and looking to date! Taking place at a beautiful country hotel in Shrewsbury\, this is going to be a fun night with cheesy dance floor fillers\, a DIY photo booth and the opportunity to match with potential dates! I can not stress this enough...please only buy a ticket if you are single\, and don't bring fr\nMore: https://www.eventbrite.co.uk/e/the-halloween-disco-for-single-people-in-shropshire-tickets-1638870960159?aff=oddtdtcreator
+URL:https://www.eventbrite.co.uk/e/the-halloween-disco-for-single-people-in-shropshire-tickets-1638870960159?aff=oddtdtcreator
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:grandad-anansi-15-00-1st-november-2025-at-sparc-theatre-bishop-s-castles-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251101
 DTEND;VALUE=DATE:20251102
 SUMMARY:Grandad Anansi 15:00 1st November 2025 at  SpArC Theatre Bishop's Castles
@@ -3884,7 +3985,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-fun-at-stokesay-court-14-00-1st-november-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251101
 DTEND;VALUE=DATE:20251102
 SUMMARY:Halloween Fun at Stokesay Court 14:00 1st November 2025 at
@@ -3896,7 +3997,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:luxury-travel-showcase-11-00-2nd-november-2025-at-st-mary-s-church-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251102
 DTEND;VALUE=DATE:20251103
 SUMMARY:Luxury Travel Showcase 11:00 2nd November 2025 at  St Mary's Church Shrewsbury
@@ -3909,7 +4010,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:medusa-16-00-2nd-november-2025-at-bridgnorth-library-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251102
 DTEND;VALUE=DATE:20251103
 SUMMARY:Medusa 16:00 2nd November 2025 at  Bridgnorth Library Bridgnorth\,
@@ -3921,7 +4022,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:quatt-the-puppet-musical-via-arts-alive-15-00-2nd-november-2025-at-quatt-village-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251102
 DTEND;VALUE=DATE:20251103
 SUMMARY:Quatt The Puppet Musical via Arts Alive 15:00 2nd November 2025 at  Quatt Village Hall Bridgnorth
@@ -3933,7 +4034,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:quatt-the-puppet-musical-15-00-2nd-november-2025-at-quatt-village-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251102
 DTEND;VALUE=DATE:20251103
 SUMMARY:Quatt The Puppet Musical! 15:00 2nd November 2025 at  Quatt Village Hall Bridgnorth
@@ -3945,7 +4046,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-3rd-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251104
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 3rd November 2025 at  The Artshack Shrewsbury
@@ -3958,7 +4059,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-4th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251105
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 4th November 2025 at  The Artshack Shrewsbury
@@ -3971,7 +4072,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-5th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 5th November 2025 at  The Artshack Shrewsbury
@@ -3984,7 +4085,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-5th-november-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 SUMMARY:Have a go at Morris Dancing 20:15 5th November 2025 at  Prestfelde School Shresbury
@@ -3997,7 +4098,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llandudno-fireworks-display-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Llandudno Fireworks Display
@@ -4010,7 +4111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jali-bakary-konteh-sarah-deere-jones-19-30-8th-november-2025-at-chelmarsh-parish-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251108
 DTEND;VALUE=DATE:20251109
 SUMMARY:Jali Bakary Konteh & Sarah Deere-Jones 19:30 8th November 2025 at  Chelmarsh Parish Hall Bridgnorth
@@ -4023,7 +4124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-10th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 10th November 2025 at  The Artshack Shrewsbury
@@ -4036,7 +4137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-11th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 11th November 2025 at  The Artshack Shrewsbury
@@ -4049,7 +4150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-12th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 12th November 2025 at  The Artshack Shrewsbury
@@ -4062,7 +4163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-12th-november-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Have a go at Morris Dancing 20:15 12th November 2025 at  Prestfelde School Shresbury
@@ -4075,7 +4176,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wild-19-30-12th-november-2025-at-the-talbot-theatre-whitchurch-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Wild 19:30 12th November 2025 at  The Talbot Theatre Whitchurch
@@ -4088,7 +4189,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-zoo-lanterns-and-light-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20260104
 SUMMARY:Chester Zoo — Lanterns and Light
@@ -4101,7 +4202,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llandudno-christmas-fayre-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251117
 SUMMARY:Llandudno Christmas Fayre
@@ -4113,8 +4214,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:speed-dating-38-45-years-19-30-13th-november-2025-at-the-shropshire-golf-centre-telford-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:Speed Dating - 38-45 years 19:30 13th November 2025 at  The Shropshire Golf Centre Telford
+LOCATION:The Shropshire Golf Centre
+DESCRIPTION:Close Speed Dating - 38-45 years 19:30 - 22:30 13th November 2025 The Shropshire Golf Centre Granville Park Muxton Telford \, Shropshire TF2 8PQ View Location Map The Shropshire Golf Centre We all need love and connection\, and meeting in real life is making a massive comeback! If you’re tired of endless swiping\, ghosting\, and online small talk that never goes anywhere\, this event is your chance to meet real single people face-to-face in a relaxed\, friendly setting. Who’s it for? This event is for single people aged 38-45 (we allow 2-3 years either side\, so 35-48 is fine). The only rule is that \nMore: https://www.eventbrite.co.uk/e/speed-dating-38-45-years-must-be-within-2-3-years-of-this-age-tickets-1718344297049?aff=oddtdtcreator
+URL:https://www.eventbrite.co.uk/e/speed-dating-38-45-years-must-be-within-2-3-years-of-this-age-tickets-1718344297049?aff=oddtdtcreator
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:frost-fair-10-00-15th-november-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251115
 DTEND;VALUE=DATE:20251116
 SUMMARY:Frost Fair 10:00 15th November 2025 at
@@ -4125,8 +4239,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:newport-music-club-50th-anniversary-season-present-lumas-wind-trio-in-concert-19-00-15th-november-2025-at-cosy-hall-telford-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Newport Music Club 50th Anniversary Season present Lumas Wind Trio in concert 19:00 15th November 2025 at  Cosy Hall Telford
+LOCATION:Close Newport Music Club 50th Anniversary Season present Lumas Wind Trio in concert 19:00 - 21:30 15th November 2025 Cosy Hall Water Lane Newport Telford \, Shropshire TF10 7LD 07957661222 View Location Map Cosy Hall Newport Music Club draws the 50th anniversary season to a close with an exciting trio of talented young musicians to Cosy Hall. We are thrilled to introduce Rennie Sutherland\, clarinet\; Florence Plane\, bassoon and David Palmer\, piano. Lumas Wind Trio are members of Lumas Winds\, an ensemble based in London committed to promoting the rich variety of wind chamber music repertoire and have been described as ‘one to watch’ (BBC Radio 3\, Record Review). Winners of the prestigious 71st Royal Over-Seas League Mixed Ensemble Prize\, the group are currently Munster Recital Scheme Artists and Kirckman Concerts Society Young Artists. Alongside performing the classics of the repertoire\, Lumas explore works that deserve recognition. This is highlighted in the six hidden gems on their debut album\, The Naming of Birds\, released in May 2024\, it features works from every decade from 1960 to 2010 and includes three world premiere recordings. They will be playing works by Mozart\, Glinka and Hurlestone. The ensemble has performed in venues throughout the UK including Wigmore and Conway Hall\, Snape Maltings\, St George’s Bristol\, and recently toured Scotland with the generous support of the Tunnell Music Trust. Tickets are £15 adult/£5 child & student (cash) at the door on the day. More Information end .details
+DESCRIPTION:Close Newport Music Club 50th Anniversary Season present Lumas Wind Trio in concert 19:00 - 21:30 15th November 2025 Cosy Hall Water Lane Newport Telford \, Shropshire TF10 7LD 07957661222 View Location Map Cosy Hall Newport Music Club draws the 50th anniversary season to a close with an exciting trio of talented young musicians to Cosy Hall. We are thrilled to introduce Rennie Sutherland\, clarinet\; Florence Plane\, bassoon and David Palmer\, piano. Lumas Wind Trio are members of Lumas Winds\, an ensemble based in London committed to promoting the rich variety of wind chamber music repertoire and \nMore: https://www.newportmusicclub.org
+URL:https://www.newportmusicclub.org
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tatton-park-yuletide-trail-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251115
 DTEND;VALUE=DATE:20251224
 SUMMARY:Tatton Park — Yuletide Trail
@@ -4139,7 +4266,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:conwy-half-marathon-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
 SUMMARY:Conwy Half Marathon
@@ -4151,8 +4278,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:lingen-davies-fundraiser-sunday-lunch-at-eaton-manor-12-30-16th-november-2025-at-eaton-manor-country-estate-church-stretton-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251116
+DTEND;VALUE=DATE:20251117
+SUMMARY:Lingen Davies Fundraiser - Sunday Lunch at Eaton Manor 12:30 16th November 2025 at  Eaton Manor Country Estate Church Stretton
+LOCATION:Eaton Manor Country Estate
+DESCRIPTION:Close Lingen Davies Fundraiser - Sunday Lunch at Eaton Manor 12:30 - 15:30 16th November 2025 Eaton Manor Country Estate Eaton-under-Heywood Church Stretton \, Shropshire SY6 7DH 01694 724814 View Location Map Eaton Manor Country Estate On Sunday\, 16th November\, Lingen Davies Cancer Support is returning to the picturesque Eaton Manor for their autumn fundraiser and would love to see you there. They are hosting a Sunday Lunch in the Events Venue at Eaton Manor\, with renowned local caterer Oak Apple Catering\, dishing up a delicious two-course lunch\, complete with a welcome drink. Teas and coffees\nMore: https://www.lingendavies.co.uk/news-events/events/sundaylunch
+URL:https://www.lingendavies.co.uk/news-events/events/sundaylunch
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:oswestry-folk-music-virginia-kettles-rolling-folk-19-30-16th-november-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
 SUMMARY:Oswestry Folk Music - Virginia Kettles Rolling Folk 19:30 16th November 2025 at
@@ -4165,7 +4305,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:quatt-christmas-craft-and-present-fayre-10-00-16th-november-2025-at-quatt-village-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
 SUMMARY:Quatt Christmas craft and present fayre 10:00 16th November 2025 at  Quatt Village Hall Bridgnorth
@@ -4177,7 +4317,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-17th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 17th November 2025 at  The Artshack Shrewsbury
@@ -4190,7 +4330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:eliza-carthy-jon-boden-the-wassail-christmas-2025-tour-at-theatre-severn-shrewsbury-19-30-17th-november-2025-at-theatre-severn-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
 SUMMARY:Eliza Carthy & Jon Boden "The Wassail" Christmas 2025 Tour at  Theatre Severn\, Shrewsbury. 19:30 17th November 2025 at  Theatre Severn Shrewsbury
@@ -4203,7 +4343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-christmas-fair-league-of-friends-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251119
 SUMMARY:Ludlow Christmas Fair (League of Friends)
@@ -4216,7 +4356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-18th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 18th November 2025 at  The Artshack Shrewsbury
@@ -4229,7 +4369,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-19th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 19th November 2025 at  The Artshack Shrewsbury
@@ -4242,7 +4382,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chester-christmas-market-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251223
 SUMMARY:Chester Christmas Market
@@ -4255,7 +4395,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-19th-november-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
 SUMMARY:Have a go at Morris Dancing 20:15 19th November 2025 at  Prestfelde School Shresbury
@@ -4267,8 +4407,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:speed-dating-50-62-years-19-30-20th-november-2025-at-haughton-hall-hotel-shifnal-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:Speed Dating - 50-62 years 19:30 20th November 2025 at  Haughton Hall Hotel Shifnal
+LOCATION:Haughton Hall Hotel
+DESCRIPTION:Close Speed Dating - 50-62 years 19:30 - 20th November 2025 Haughton Hall Hotel Haughton Lane Shifnal \, Shropshire TF11 8HG 01952 468300 View Location Map Haughton Hall Hotel We all need love and connection\, and meeting in real life is making a massive comeback! If you’re tired of endless swiping\, ghosting\, and online small talk that never goes anywhere\, this event is your chance to meet real single people face-to-face in a relaxed\, friendly setting. Who’s it for? This event is for single people aged 50-62 (we allow 2-3 years either side\, so 47-65 is fine). The only rule is that you must be si\nMore: https://www.eventbrite.co.uk/e/speed-dating-50-62-years-must-be-within-2-3-years-of-this-age-tickets-1738825988339?aff=oddtdtcreator
+URL:https://www.eventbrite.co.uk/e/speed-dating-50-62-years-must-be-within-2-3-years-of-this-age-tickets-1738825988339?aff=oddtdtcreator
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tatton-park-the-christmas-mansion-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20260101
 SUMMARY:Tatton Park — The Christmas Mansion
@@ -4280,8 +4433,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:winter-light-19-00-23rd-november-2025-at-shrewsbury-abbey-shrewsbury-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251124
+SUMMARY:Winter Light 19:00 23rd November 2025 at  Shrewsbury Abbey Shrewsbury
+LOCATION:Close Winter Light 19:00 - 21:00 23rd November 2025 Shrewsbury Abbey 25 Abbey Foregate Shrewsbury \, SY2 6BS View Location Map Shrewsbury Abbey Winter Light at Shrewsbury Abbey Nadia catapulted to fame when she appeared on ITV as the only classical singer on The Voice UK 2021. Her four- and-a-half octave range blew the coaches away securing her spot as a finalist of Team will.i.am. Critically acclaimed on stage as an opera and musical theatre star\, she is now breaking the mould of the classical crossover genre\, receiving standing ovations for her concert shows. This November and December she is touring her hugely successful Christmas concert tour Winter Light\, which is taking place in beautiful churches and cathedrals around the UK this Christmas. Chart topping soprano and star of The Voice UK\, Nadia Eide\, presents a spectacular Christmas concert for all ages. Singing festive favourites and classic songs\, this show is sure to bring the Christmas joy! Features a special guest choir. All ages welcome. More Information end .details
+DESCRIPTION:Close Winter Light 19:00 - 21:00 23rd November 2025 Shrewsbury Abbey 25 Abbey Foregate Shrewsbury \, SY2 6BS View Location Map Shrewsbury Abbey Winter Light at Shrewsbury Abbey Nadia catapulted to fame when she appeared on ITV as the only classical singer on The Voice UK 2021. Her four- and-a-half octave range blew the coaches away securing her spot as a finalist of Team will.i.am. Critically acclaimed on stage as an opera and musical theatre star\, she is now breaking the mould of the classical crossover genre\, receiving standing ovations for her concert shows. This November and December she is\nMore: https://www.eventbrite.co.uk/e/1357009996429?aff=oddtdtcreator
+URL:https://www.eventbrite.co.uk/e/1357009996429?aff=oddtdtcreator
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-24th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 24th November 2025 at  The Artshack Shrewsbury
@@ -4294,7 +4460,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-25th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 25th November 2025 at  The Artshack Shrewsbury
@@ -4307,7 +4473,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-26th-november-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 26th November 2025 at  The Artshack Shrewsbury
@@ -4320,7 +4486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-26th-november-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Have a go at Morris Dancing 20:15 26th November 2025 at  Prestfelde School Shresbury
@@ -4332,8 +4498,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:speed-dating-23-29-years-19-30-27th-november-2025-at-haughton-hall-hotel-shifnal-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Speed Dating - 23-29 years 19:30 27th November 2025 at  Haughton Hall Hotel Shifnal
+LOCATION:Haughton Hall Hotel
+DESCRIPTION:Close Speed Dating - 23-29 years 19:30 - 22:30 27th November 2025 Haughton Hall Hotel Haughton Lane Shifnal \, Shropshire TF11 8HG 01952 468300 View Location Map Haughton Hall Hotel We all need love and connection\, and meeting in real life is making a massive comeback! If you’re tired of endless swiping\, ghosting\, and online small talk that never goes anywhere\, this event is your chance to meet real single people face-to-face in a relaxed\, friendly setting. Who’s it for? This event is for single people aged 23-29 (we allow 2-3 years either side\, so 20-32 is fine). The only rule is that you must\nMore: https://www.eventbrite.co.uk/e/speed-dating-23-29-years-must-be-within-2-3-years-of-this-age-tickets-1738777322779?aff=oddtdtcreator
+URL:https://www.eventbrite.co.uk/e/speed-dating-23-29-years-must-be-within-2-3-years-of-this-age-tickets-1738777322779?aff=oddtdtcreator
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:christmas-party-night-19-00-28th-november-2025-at-albrighton-hall-hotel-spa-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 SUMMARY:Christmas Party Night 19:00 28th November 2025 at  Albrighton Hall Hotel & Spa Shrewsbury
@@ -4346,7 +4525,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-winter-festival-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251201
 SUMMARY:Ludlow Winter Festival
@@ -4359,7 +4538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-19-00-29th-november-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251130
 SUMMARY:Christmas Party Night 19:00 29th November 2025 at
@@ -4370,8 +4549,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:onny-meadows-wreath-making-11-00-30th-november-2025-at-2025@whatson.local
+DTSTAMP:20251013T062416Z
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:Onny Meadows Wreath Making 11:00 30th November 2025 at
+DESCRIPTION:Close Onny Meadows Wreath Making 11:00 - 16:00 30th November 2025 Join us for a lovely festive craft session. Whether on your own\, with friends\, or with the whole family\, you’ll create a beautiful wreath to take home. Using natural materials sourced from Onny Meadows and the surrounding countryside\, each wreath will have its own special touch - perfect to display proudly and enjoy throughout the festive season. You’re welcome to book ahead to secure your spot\, or simply drop in and join us on the day. £10 per wreath\, all ages welcome. More Information\nMore: https://www.shropshirehillsdiscoverycentre.co.uk/
+URL:https://www.shropshirehillsdiscoverycentre.co.uk/
+CATEGORIES:Shropshire\,Shropshire Events Guide
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-1st-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 1st December 2025 at  Berwick House Shrewsbury
@@ -4384,7 +4575,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-1st-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251202
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 1st December 2025 at  The Artshack Shrewsbury
@@ -4397,7 +4588,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-2nd-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 2nd December 2025 at  Berwick House Shrewsbury
@@ -4410,7 +4601,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-2nd-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 2nd December 2025 at  The Artshack Shrewsbury
@@ -4423,7 +4614,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-3rd-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 3rd December 2025 at  Berwick House Shrewsbury
@@ -4436,7 +4627,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-3rd-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251204
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 3rd December 2025 at  The Artshack Shrewsbury
@@ -4449,7 +4640,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-3rd-december-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251204
 SUMMARY:Have a go at Morris Dancing 20:15 3rd December 2025 at  Prestfelde School Shresbury
@@ -4462,7 +4653,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-4th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 4th December 2025 at  Berwick House Shrewsbury
@@ -4475,7 +4666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-5th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 5th December 2025 at  Berwick House Shrewsbury
@@ -4488,7 +4679,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arley-hall-christmas-fantasy-florals-in-the-hall-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251211
 SUMMARY:Arley Hall Christmas — Fantasy Florals in the Hall
@@ -4501,7 +4692,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-19-00-5th-december-2025-at-albrighton-hall-hotel-spa-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
 SUMMARY:Christmas Party Night 19:00 5th December 2025 at  Albrighton Hall Hotel & Spa Shrewsbury
@@ -4514,7 +4705,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-6th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 6th December 2025 at  Berwick House Shrewsbury
@@ -4527,7 +4718,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-19-00-6th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
 SUMMARY:Christmas Party Night 19:00 6th December 2025 at
@@ -4539,7 +4730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-skittles-19-00-6th-december-2025-at-quatt-village-hall-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
 SUMMARY:Christmas Skittles 19:00 6th December 2025 at  Quatt Village Hall Bridgnorth
@@ -4551,7 +4742,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-morris-dancers-christmas-ceilidh-19-30-6th-december-2025-at-meole-brace-school-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
 SUMMARY:Shrewsbury Morris Dancers Christmas Ceilidh 19:30 6th December 2025 at  Meole Brace School Shrewsbury
@@ -4564,7 +4755,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-7th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251207
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 7th December 2025 at  Berwick House Shrewsbury
@@ -4577,7 +4768,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-afternoon-tea-sunday-7th-december-12-00-7th-december-2025-at-davenport-house-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251207
 DTEND;VALUE=DATE:20251208
 SUMMARY:CHRISTMAS AFTERNOON TEA - SUNDAY 7TH DECEMBER 12:00 7th December 2025 at  Davenport House Bridgnorth
@@ -4590,7 +4781,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-carols-11-30-7th-december-2025-at-the-astbury-golf-lodge-resort-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251207
 DTEND;VALUE=DATE:20251208
 SUMMARY:Christmas Carols 11:30 7th December 2025 at  The Astbury Golf & Lodge Resort Bridgnorth
@@ -4603,7 +4794,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-8th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 8th December 2025 at  Berwick House Shrewsbury
@@ -4616,7 +4807,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-8th-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251209
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 8th December 2025 at  The Artshack Shrewsbury
@@ -4629,7 +4820,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-9th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 9th December 2025 at  Berwick House Shrewsbury
@@ -4642,7 +4833,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-9th-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 9th December 2025 at  The Artshack Shrewsbury
@@ -4655,7 +4846,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-10th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 10th December 2025 at  Berwick House Shrewsbury
@@ -4668,7 +4859,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-wednesday-10-00-10th-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 SUMMARY:Artshack Personal Creative Development Days - Wednesday 10:00 10th December 2025 at  The Artshack Shrewsbury
@@ -4681,7 +4872,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-at-stokesay-court-16-30-10th-december-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 SUMMARY:Christmas at Stokesay Court 16:30 10th December 2025 at  Stokesay Court Craven Arms
@@ -4694,7 +4885,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:have-a-go-at-morris-dancing-20-15-10th-december-2025-at-prestfelde-school-shresbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
 SUMMARY:Have a go at Morris Dancing 20:15 10th December 2025 at  Prestfelde School Shresbury
@@ -4707,7 +4898,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-11th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 11th December 2025 at  Berwick House Shrewsbury
@@ -4720,7 +4911,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-at-stokesay-court-16-30-11th-december-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251212
 SUMMARY:Christmas at Stokesay Court 16:30 11th December 2025 at  Stokesay Court Craven Arms
@@ -4733,7 +4924,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-12th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 12th December 2025 at  Berwick House Shrewsbury
@@ -4746,7 +4937,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-at-stokesay-court-16-30-12th-december-2025-at-stokesay-court-craven-arms-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Christmas at Stokesay Court 16:30 12th December 2025 at  Stokesay Court Craven Arms
@@ -4759,7 +4950,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-18-00-12th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Christmas Party Night 18:00 12th December 2025 at
@@ -4771,7 +4962,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-19-00-12th-december-2025-at-albrighton-hall-hotel-spa-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Christmas Party Night 19:00 12th December 2025 at  Albrighton Hall Hotel & Spa Shrewsbury
@@ -4784,7 +4975,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-mammoth-santa-trail-event-10-00-13th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
 SUMMARY:A Mammoth Santa Trail Event 10:00 13th December 2025 at
@@ -4796,7 +4987,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-13th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 13th December 2025 at  Berwick House Shrewsbury
@@ -4809,7 +5000,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-19-00-13th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
 SUMMARY:Christmas Party Night 19:00 13th December 2025 at
@@ -4821,7 +5012,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a-woodland-christmas-at-berwick-15-00-14th-december-2025-at-berwick-house-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251214
 DTEND;VALUE=DATE:20251215
 SUMMARY:A Woodland Christmas at Berwick 15:00 14th December 2025 at  Berwick House Shrewsbury
@@ -4834,7 +5025,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:afternoon-tea-with-santa-12-30-14th-december-2025-at-the-astbury-golf-lodge-resort-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251214
 DTEND;VALUE=DATE:20251215
 SUMMARY:Afternoon Tea with Santa 12:30 14th December 2025 at  The Astbury Golf & Lodge Resort Bridgnorth
@@ -4846,7 +5037,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-afternoon-tea-sunday-14th-december-12-00-14th-december-2025-at-davenport-house-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251214
 DTEND;VALUE=DATE:20251215
 SUMMARY:CHRISTMAS AFTERNOON TEA - SUNDAY 14TH DECEMBER 12:00 14th December 2025 at  Davenport House Bridgnorth
@@ -4859,7 +5050,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-15th-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251215
 DTEND;VALUE=DATE:20251216
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 15th December 2025 at  The Artshack Shrewsbury
@@ -4872,7 +5063,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-16th-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 16th December 2025 at  The Artshack Shrewsbury
@@ -4885,7 +5076,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-19-00-19th-december-2025-at-albrighton-hall-hotel-spa-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Christmas Party Night 19:00 19th December 2025 at  Albrighton Hall Hotel & Spa Shrewsbury
@@ -4898,7 +5089,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-afternoon-tea-saturday-20th-december-12-00-20th-december-2025-at-davenport-house-bridgnorth-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251221
 SUMMARY:CHRISTMAS AFTERNOON TEA - SATURDAY 20TH DECEMBER 12:00 20th December 2025 at  Davenport House Bridgnorth
@@ -4911,7 +5102,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-party-night-19-00-20th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251221
 SUMMARY:Christmas Party Night 19:00 20th December 2025 at
@@ -4923,7 +5114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:handel-s-messiah-shrewsbury-cantata-choir-19-30-20th-december-2025-at-st-chad-s-church-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251221
 SUMMARY:Handel's Messiah - Shrewsbury Cantata Choir 19:30 20th December 2025 at  St Chad's Church Shrewsbury
@@ -4936,7 +5127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-monday-all-day-22nd-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251223
 SUMMARY:Artshack Personal Creative Development Days - Monday All Day 22nd December 2025 at  The Artshack Shrewsbury
@@ -4949,7 +5140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:artshack-personal-creative-development-days-tuesday-all-day-23rd-december-2025-at-the-artshack-shrewsbury-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251223
 DTEND;VALUE=DATE:20251224
 SUMMARY:Artshack Personal Creative Development Days -Tuesday All Day 23rd December 2025 at  The Artshack Shrewsbury
@@ -4962,7 +5153,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-day-lunch-12-00-25th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251226
 SUMMARY:Christmas Day Lunch 12:00 25th December 2025 at
@@ -4974,7 +5165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boxing-day-brunch-11-00-26th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251227
 SUMMARY:Boxing Day Brunch 11:00 26th December 2025 at
@@ -4986,7 +5177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:christmas-nature-walk-10-30-28th-december-2025-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251228
 DTEND;VALUE=DATE:20251229
 SUMMARY:Christmas Nature Walk 10:30 28th December 2025 at
@@ -4998,7 +5189,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-eve-house-party-19-00-31st-december-2025-1st-january-2026-at-2025@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260102
 SUMMARY:New Years Eve House Party 19:00 31st December 2025 – 1st January 2026 at
@@ -5010,7 +5201,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:loopfest-shrewsbury-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260504
 SUMMARY:LOOPFEST (Shrewsbury)
@@ -5023,7 +5214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boodles-may-festival-2026-trials-day-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Boodles May Festival 2026 — Trials Day
@@ -5036,7 +5227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boodles-may-festival-2026-ladies-day-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Boodles May Festival 2026 — Ladies Day
@@ -5049,7 +5240,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:boodles-may-festival-2026-chester-cup-day-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Boodles May Festival 2026 — Chester Cup Day
@@ -5062,7 +5253,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ludlow-spring-festival-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
 SUMMARY:Ludlow Spring Festival
@@ -5075,7 +5266,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shropshire-county-show-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:Shropshire County Show
@@ -5088,7 +5279,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:royal-cheshire-county-show-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260618
 SUMMARY:Royal Cheshire County Show
@@ -5101,7 +5292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:arley-garden-festival-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
 SUMMARY:Arley Garden Festival
@@ -5114,7 +5305,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:shrewsbury-food-festival-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
 SUMMARY:Shrewsbury Food Festival
@@ -5127,7 +5318,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:llangollen-international-musical-eisteddfod-core-week-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260713
 SUMMARY:Llangollen International Musical Eisteddfod — Core Week
@@ -5140,7 +5331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minsterley-show-2026-2026@whatson.local
-DTSTAMP:20251006T062428Z
+DTSTAMP:20251013T062416Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Minsterley Show 2026
